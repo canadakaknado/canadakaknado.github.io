@@ -1,12 +1,12 @@
-# ПРАВИЛА ЧАТА "КАНАДА КАК НАДО"
 
-[@canadakaknado](https://t.me/canadakaknado) [@canadabower](https://t.me/canadabower) [aquamila.me](https://aquamila.me) {{ page.date }}
+[@canadakaknado](https://t.me/canadakaknado)
+[@canadabower](https://t.me/canadabower)
 
 __Пожалуйста, ознакомьтесь и соблюдайте.__
 
-1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду по [этой ссылке](https://aquamila.me/express-entry-canada) - FAQ 1. 
+1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в [FAQ 1](https://aquamila.me/express-entry-canada). 
 
-2. Если по-прежнему __останутся какие-то вопросы__, имеет смысл прочесть и [этот пост](https://aquamila.me/canada-faq) - FAQ 2. 
+2. Если по-прежнему __останутся какие-то вопросы__, имеет смысл прочесть и [FAQ 2](https://aquamila.me/canada-faq). 
 
 3. Если и там не нашлось ответов - задавайте их в чате [@canadakaknado](https://t.me/canadakaknado).
 
