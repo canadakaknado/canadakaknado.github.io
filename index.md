@@ -81,12 +81,15 @@ __Пожалуйста, ознакомьтесь и соблюдайте.__
 * [@mamayavtoronto](https://t.me/mamayavtoronto) - Торонто
 * [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Торонто
 * [@VisualDebris](https://t.me/visualdebris) - Торонто
+
 * [@NoFunCity](https://t.me/nofuncity) - Ванкувер
 * [@Health_Vancity](https://t.me/health_vancity) - Ванкувер
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Ванкувер
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Ванкувер
+
 * [@ParliamentHill](https://t.me/parliamenthill) - Оттава
 * [@BlameCanada](https://t.me/blamecanada) - Оттава
+
 * [@Unpackedness](https://t.me/unpackedness) - Лондон, Онтарио
 * [@BeaverNotes](https://t.me/beavernotes) - Калгари
 * [@julik_from_canada](https://t.me/julik_from_canada) - Саскатун
