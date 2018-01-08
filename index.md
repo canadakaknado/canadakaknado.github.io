@@ -2,6 +2,8 @@
 [@canadakaknado](https://t.me/canadakaknado)
 [@canadabower](https://t.me/canadabower)
 
+## __ПРАВИЛА ЧАТА__
+
 ## __ПРАВИЛА ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado) __
 
 __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
