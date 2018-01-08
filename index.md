@@ -2,7 +2,7 @@
 [@canadakaknado](https://t.me/canadakaknado)
 [@canadabower](https://t.me/canadabower)
 
-## __ПРАВИЛА ЧАТА__
+## __ПРАВИЛА ЧАТА "КАНАДА КАК НАДО"__
 
 ## __ПРАВИЛА ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado) __
 
