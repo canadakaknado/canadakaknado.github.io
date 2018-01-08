@@ -2,6 +2,8 @@
 [@canadakaknado](https://t.me/canadakaknado)
 [@canadabower](https://t.me/canadabower)
 
+#__ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
+
 __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 
 1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в [FAQ 1](https://aquamila.me/express-entry-canada). 
@@ -31,7 +33,7 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Подготовка к IELTS](https://aquamila.me/ielts/)
 * [Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
 
-### Для тех, кто начал готовиться к созданию профиля
+### __Для тех, кто начал готовиться к созданию профиля__
 
 * [Классификатор NOC](http://www.cic.gc.ca/english/immigrate/skilled/noc.asp)
 * [Матрица NOC 2016](http://noc.esdc.gc.ca/English/NOC/Matrix2016.aspx?ver=16) (легко найти свой NOC и его skill level)
@@ -40,12 +42,12 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](http://www.cic.gc.ca/english/immigrate/skilled/offer.asp)
 * [Процесс эвалюации российского диплома через WES](https://unpacked-cat.blogspot.ca/2015/10/educational-credential-assessment-eca-wes.html)
 
-### Для тех, кто уже в пуле
+### __Для тех, кто уже в пуле__
 
 * [Результаты последней выборки Express Entry](http://www.cic.gc.ca/english/express-entry/rounds.asp)
 * [Результаты выборок Express Entry на canadavisa](http://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
 
-### Для получивших ITA
+### __Для получивших ITA__
 
 * [Требования к оформлению документов по Express Entry](http://www.cic.gc.ca/english/resources/tools/perm/express/intake-complete.asp)
 * [Подтверждение опыта работы (оформление reference letter)](http://julik.space/category/immigration/proof-of-work-experience/)
@@ -53,12 +55,12 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Post e-APR Process and Common Reasons for Rejection](http://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
 * [BG Check and medical status and its meaning post-AOR](https://immiknowhow.com/2017/07/16/bg-and-medical-status-and-its-meaning-post-aor/)
 
-### Для тех, кто засабмитился
+### __Для тех, кто засабмитился__
 
 * [Как дозвониться в CIC из Канады и извне Канады](https://telegra.ph/Kak-dozvonitsya-do-CIC-izvne-Kanady-i-iz-nee-11-23)
 * [MyImmitracker и как им пользоваться](https://goo.gl/IeYW4U)
 
-### Для всех
+### __Для всех__
 
 * [Список аббревиатур](http://telegra.ph/Abbreviatury-07-10)
 * [Глоссарий терминов, используемых в иммиграционных документах](http://www.cic.gc.ca/english/helpcentre/glossary.asp)
@@ -66,20 +68,20 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
 * [Заполнение деклараций при переезде в Канаду](http://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
-## Блоги участников чата
+## __Блоги участников чата__
 
 * [unpacked-cat.blogspot.ca](https://unpacked-cat.blogspot.ca/) - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry.
 * julik.space](https://julik.space/) - еще один полезный блог об иммиграции в Канаду, автор иммигрировала через провинциальную программу Саскачевана.
 * [medvedneo.com](https://www.medvedneo.com/) - блог об успешном поиске работы в Канаде не айтишником .
 * Еще один [интересный блог](https://pikabu.ru/profile/FairyTale6001) об процессе иммиграции и последующем переезде от участницы нашего чата на Pikabu.
 
-## Тематические чаты
+## __Тематические чаты__
 
 * [@TheMaritimes](https://t.me/themaritimes) - чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@AllForIELTS](https://t.me/allforielts) - чат для тех, кто готовится к IELTS.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 
-## Тематические каналы участников
+## __Тематические каналы участников__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
@@ -103,49 +105,3 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [@real_montReal](https://t.me/real_montreal) - Монреаль
 
 [Здесь](https://telegra.ph/Kanada-11-17) вы найдете еще больше телеграм-каналов про Канаду - велкам! :)
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/canadakaknado/canadakaknado.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canadakaknado/canadakaknado.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
