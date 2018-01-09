@@ -2,11 +2,11 @@
 [@canadakaknado](https://t.me/canadakaknado)
 [@canadabower](https://t.me/canadabower)
 
-## <a id="rules"></a>__ПРАВИЛА ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado)__
+## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado)__
 
 __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 
-1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в __[FAQ 1]__(https://aquamila.me/express-entry-canada). 
+1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в __[FAQ 1](https://aquamila.me/express-entry-canada)__. 
 
 2. Если по-прежнему __останутся какие-то вопросы__, имеет смысл прочесть и [FAQ 2](https://aquamila.me/canada-faq). 
 
@@ -30,7 +30,7 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Требования к федеральной программе иммиграции FSW](http://www.cic.gc.ca/english/immigrate/skilled/apply-factors.asp)
 * [Таблица баллов Express Entry ](http://www.cic.gc.ca/english/express-entry/grid-crs.asp)
 * [Считалка баллов Express Entry](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
-* [Список иммиграционных консультантов Канады](http://secure.iccrc-crcic.ca/search-new/EN)
+* [Список лицензированных иммиграционных консультантов Канады](http://secure.iccrc-crcic.ca/search-new/EN)
 * [Подготовка к IELTS](https://aquamila.me/ielts/)
 * [Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
 
