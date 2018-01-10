@@ -6,15 +6,7 @@ __Данный сайт является базой знаний телегра�
 2. __[Полезные ссылки](http://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
 3. Ссылки на дружественные тематические __[чаты](http://canadakaknado.info/#chats)__, __[блоги](http://canadakaknado.info/#blogs)__ и __[телеграм-каналы](http://canadakaknado.info/#channels)__ участников.
 
-
-
 <p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-small.jpg"> </p>
-
- <span style="color:red; font-family:Georgia; text-align:center; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span>
-
-<p style="text-align:center"> ![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg) </p> 
-
-![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg)
 
 
 ## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА [@canadakaknado](https://t.me/canadakaknado)__
