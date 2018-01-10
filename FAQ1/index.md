@@ -11,12 +11,10 @@
 
 Сначала потенциальный иммигрант создает свой [профиль](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate.html) Express Entry на [иммиграционном сайте Канады](http://www.cic.gc.ca/). Для создания профиля необходимо ответить на разные вопросы об образовании, опыте работы, возрасте, знании английского и т.д., после чего система решит, подходит ли человек вообще для какой-либо из существующих программ.
 
-Федеральных программ на сегодняшний момент три:
-* Federal Skilled Worker Program — программа для квалифицированных работников;
-* Federal Skilled Trades Program — программа для тех, кто владеет рабочей специальностью;
-* Canadian Experience Class — программа для тех, у кого есть хотя бы год канадского опыта работы.
-
-Подробнее о каждой из программ и их требованиях прочитать можно [тут](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html).
+[Федеральных программ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html) на сегодняшний момент три:
+* [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers.html) — программа для квалифицированных работников;
+* [Federal Skilled Trades Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/skilled-trades.html) — программа для тех, кто владеет рабочей специальностью;
+* [Canadian Experience Class](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/canadian-experience-class.html) — программа для тех, у кого есть хотя бы год канадского опыта работы.
 
 Если читать описание каждой из программ лень, можно проверить себя на соответствие какой-либо из них по [этой ссылке](http://www.cic.gc.ca/ctc-vac/getting-started.asp). Если все ответы систему удовлетворят, будет предложено создать профиль Express Entry. Если делать это в ближайшее время вы не собираетесь, приглашение можно проигнорировать и при необходимости получить его снова, ответив на те же самые вопросы. Если что-то пойдет не так, и система будет упорно отказывать, можно проверить свои "входные параметры" на [этой странице](http://www.cic.gc.ca/english/immigrate/skilled/apply-factors.asp), но имейте ввиду, что данная информация поможет только тем, кто планирует пройти по программе Federal Skilled Worker. 
 
