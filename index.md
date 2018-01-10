@@ -1,12 +1,12 @@
-__Данный сайт является базой знаний телеграм-канала ["@canadakaknado"](https://t.me/canadakaknado), посвященном иммиграции в Канаду.__
+__Данный сайт является базой знаний телеграм-канала [@canadakaknado](https://t.me/canadakaknado), посвященном иммиграции в Канаду.__
 
 Здесь вы найдете:
 
-1. __[Правила](http://canadakaknado.info/#rules)__ телеграм-чата ["@canadakaknado"](https://t.me/canadakaknado).
+1. __[Правила](http://canadakaknado.info/#rules)__ телеграм-чата [@canadakaknado](https://t.me/canadakaknado).
 2. __[Полезные ссылки](http://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
 3. Ссылки на дружественные тематические __[чаты](http://canadakaknado.info/#chats)__, __[блоги](http://canadakaknado.info/#blogs)__ и __[телеграм-каналы](http://canadakaknado.info/#channels)__ участников.
 
-## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado)__
+## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА [@canadakaknado](https://t.me/canadakaknado)__
 
 __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 
