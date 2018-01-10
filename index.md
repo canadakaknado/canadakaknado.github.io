@@ -1,6 +1,10 @@
+Данный сайт является базой знаний телеграм-канала @canadakaknado, посвященном иммиграции в Канаду.
 
-[@canadakaknado](https://t.me/canadakaknado)
-[@canadabower](https://t.me/canadabower)
+Здесь вы найдете:
+
+1. [Правила](http://canadakaknado.info/#rules) телеграм-чата ["@canadakaknado"](https://t.me/canadakaknado)
+2. [Полезные ссылки](http://canadakaknado.info/#links) для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе
+3. Ссылки на дружественные тематические [чаты](http://canadakaknado.info/#chats), [блоги](http://canadakaknado.info/#blogs) и [телеграм-каналы](http://canadakaknado.info/#channels) участников
 
 ## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА ["КАНАДА КАК НАДО"](https://t.me/canadakaknado)__
 
@@ -69,20 +73,20 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
 * [Заполнение деклараций при переезде в Канаду](http://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
-## __Блоги участников чата__
+## <a id="blogs"></a>__Блоги участников чата__
 
 * __[unpacked-cat.blogspot.ca](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry.
 * __[julik.space](https://julik.space/)__ - еще один полезный блог об иммиграции в Канаду, автор иммигрировала через провинциальную программу Саскачевана.
 * __[medvedneo.com](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником .
 * Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от участницы нашего чата на Pikabu.
 
-## __Тематические чаты__
+## <a id="chats"></a>__Тематические чаты__
 
 * [@TheMaritimes](https://t.me/themaritimes) - чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@AllForIELTS](https://t.me/allforielts) - чат для тех, кто готовится к IELTS.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 
-## __Тематические каналы участников__
+## <a id="channels"></a> __Тематические каналы участников__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
