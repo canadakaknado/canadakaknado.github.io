@@ -31,6 +31,7 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 8. Обращения к администратору/модератору - в личке __[@aquamila](https://t.me/aquamila)__.
 
 
+<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 
 ## <a id="links"></a>__САМЫЕ ВАЖНЫЕ ССЫЛКИ__
@@ -78,6 +79,8 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
 * [Заполнение деклараций при переезде в Канаду](http://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
+
+<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 ## <a id="blogs"></a>__Блоги участников чата__
 
