@@ -7,7 +7,7 @@ __Данный сайт является базой знаний телегра�
 3. Ссылки на дружественные тематические __[чаты](http://canadakaknado.info/#chats)__, __[блоги](http://canadakaknado.info/#blogs)__ и __[телеграм-каналы](http://canadakaknado.info/#channels)__ участников.
 
 
-![Flag of Canada](http://canadakaknado.info/canada-flag.png)
+![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg)
 
 
 ## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА [@canadakaknado](https://t.me/canadakaknado)__
