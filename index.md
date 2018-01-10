@@ -9,7 +9,7 @@ __Данный сайт является базой знаний телегра�
 <p> </p>
 
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-small.jpg"> </p>
+<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 
 ## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА [@canadakaknado](https://t.me/canadakaknado)__
