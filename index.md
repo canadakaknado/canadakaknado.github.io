@@ -12,7 +12,7 @@ __Данный сайт является базой знаний телегра�
 
  <span style="color:red; font-family:Georgia; text-align:center; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span>
 
-<span style="text-align:center">![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg)</span> 
+<p style="text-align:center">![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg)</p> 
 
 ![Flag of Canada](http://canadakaknado.info/canada-flag-small.jpg)
 
