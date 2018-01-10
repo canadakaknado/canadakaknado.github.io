@@ -9,6 +9,8 @@ __Данный сайт является базой знаний телегра�
 ##
 ##
 
+re
+
 <p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 
