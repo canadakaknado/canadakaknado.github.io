@@ -1,5 +1,5 @@
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="http://canadakaknado.info">canadakaknado.info</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a>, посвященного иммиграции в Канаду</p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="http://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a>, посвященного иммиграции в Канаду</p>
 
 # __FAQ 2. Иммиграция в Канаду в вопросах и ответах__
 
