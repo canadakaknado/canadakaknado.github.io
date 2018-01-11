@@ -1,5 +1,5 @@
 
-### __[КАНАДА КАК НАДО](http://canadakaknado.info) - база знаний телеграм-чата [@canadakaknado](https://t.me/canadakaknado), посвященного иммиграции в Канаду__
+### __[canadakaknado.info](http://canadakaknado.info) - база знаний телеграм-чата [@canadakaknado](https://t.me/canadakaknado), посвященного иммиграции в Канаду__
 
 # __FAQ 2. Иммиграция в Канаду в вопросах и ответах__
 
