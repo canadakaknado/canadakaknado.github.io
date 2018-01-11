@@ -8,7 +8,7 @@ __Данный сайт является базой знаний телегра�
 
 <p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a href="#rules">ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/canadakaknado">@canadakaknado</a></a></p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/canadakaknado">@canadakaknado</a></p>
 
 ## <a id="rules"></a>__ПРАВИЛА ТЕЛЕГРАМ-ЧАТА [@canadakaknado](https://t.me/canadakaknado)__
 
