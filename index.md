@@ -41,30 +41,30 @@ __Данный сайт является базой знаний телегра�
 
 * [FAQ 1. В Канаду через Express Entry (или еще как-нибудь)](http://canadakaknado.info/faq1/)
 * [FAQ 2. Иммиграция в Канаду в вопросах и ответах](http://canadakaknado.info/faq2/)
-* [Требования к федеральной программе иммиграции FSW](http://www.cic.gc.ca/english/immigrate/skilled/apply-factors.asp)
-* [Таблица баллов Express Entry ](http://www.cic.gc.ca/english/express-entry/grid-crs.asp)
+* [Требования к федеральной программе иммиграции FSW](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
+* [Таблица баллов Express Entry ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/criteria-comprehensive-ranking-system/grid.html)
 * [Считалка баллов Express Entry](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
 * [Список лицензированных иммиграционных консультантов Канады](http://secure.iccrc-crcic.ca/search-new/EN)
-* [Подготовка к IELTS](https://aquamila.me/ielts/)
+* [Подготовка к IELTS](http://canadakaknado.info/ielts/)
 * [Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
 
 ### __Для тех, кто начал готовиться к созданию профиля__
 
-* [Классификатор NOC](http://www.cic.gc.ca/english/immigrate/skilled/noc.asp)
+* [Классификатор NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/find-national-occupation-code.html)
 * [Матрица NOC 2016](http://noc.esdc.gc.ca/English/NOC/Matrix2016.aspx?ver=16) (легко найти свой NOC и его skill level)
-* [Таблица перевода баллов IELTS и TEF в CLB](http://www.cic.gc.ca/english/resources/tools/language/charts.asp)
-* [Сколько денег нужно показать для иммиграции в Канаду (требования к PoF)](http://www.cic.gc.ca/english/immigrate/skilled/funds.asp)
-* [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](http://www.cic.gc.ca/english/immigrate/skilled/offer.asp)
+* [Таблица перевода баллов IELTS и TEF в CLB](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
+* [Сколько денег нужно показать для иммиграции в Канаду (требования к PoF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html)
+* [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html)
 * [Процесс эвалюации российского диплома через WES](https://unpacked-cat.blogspot.ca/2015/10/educational-credential-assessment-eca-wes.html)
 
 ### __Для тех, кто уже в пуле__
 
-* [Результаты последней выборки Express Entry](http://www.cic.gc.ca/english/express-entry/rounds.asp)
+* [Результаты последней выборки Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html)
 * [Результаты выборок Express Entry на canadavisa](http://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
 
 ### __Для получивших ITA__
 
-* [Требования к оформлению документов по Express Entry](http://www.cic.gc.ca/english/resources/tools/perm/express/intake-complete.asp)
+* [Требования к оформлению документов по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
 * [Подтверждение опыта работы (оформление reference letter)](http://julik.space/category/immigration/proof-of-work-experience/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
 * [Post e-APR Process and Common Reasons for Rejection](http://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
@@ -89,7 +89,7 @@ __Данный сайт является базой знаний телегра�
 
 ## <a id="blogs"></a>__Блоги участников чата__
 
-* __[unpacked-cat.blogspot.ca](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry.
+* __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/).
 * __[julik.space](https://julik.space/)__ - еще один полезный блог об иммиграции в Канаду, автор иммигрировала через провинциальную программу Саскачевана.
 * __[medvedneo.com](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником .
 * Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от участницы нашего чата на Pikabu.
