@@ -1,3 +1,5 @@
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="http://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
+
 # __Краткая инструкция под подготовке к IELTS для иммиграции в Канаду__
 
 Экзамен IELTS состоит из тестирования четырех аспектов языка — аудирования (listening), чтения (reading), письма (writing), говорения (speaking). Первые два относятся к пассивным навыками, вторые — к активным. Листнинг и спикинг в этих экзаменах одинаковые, ридинг и райтинг различаются. Максимальный балл, который можно получить по всем четырем скиллам — девятки. Для иммиграции обычно сдается IELTS General, для учебы — IELTS Academic.
