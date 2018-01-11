@@ -30,11 +30,9 @@ __ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.__
 
 8. Обращения к администратору/модератору - в личке __[@aquamila](https://t.me/aquamila)__.
 
-
 <p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
 
-
-## <a id="links"></a>__САМЫЕ ВАЖНЫЕ ССЫЛКИ__
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ПОЛЕЗНЫЕ ССЫЛКИ</p>
 
 ### __Для тех, кто только собрался иммигрировать__
 
