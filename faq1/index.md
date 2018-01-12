@@ -10,7 +10,7 @@
 
 Раньше, набрав проходное количество баллов по какой-либо из федеральных программам иммиграции, можно было сразу подаваться на статус постоянного резидента (если, конечно, профессия была в списке востребованных). С 2015 года система изменилась, теперь выбирают лучших из лучших из так называемого пула [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html), где присутствует своя балльная система, но зато отсутствует сильно ограниченный список профессий.
 
-На сегодняшний день существует три федеральные программы иммиграции:
+На сегодняшний день существует три __федеральные программы иммиграции__:
 
 * [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers.html) — программа для квалифицированных работников. Именно по ней имммгрирует большинство людей, которые проживают за пределами Канады. Для того, чтобы пройти по этой программе, нужно набрать [67 баллов за знание языков, образование, рабочий опыт, возраст и так далее](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html). 
 
