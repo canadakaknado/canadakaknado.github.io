@@ -18,7 +18,7 @@
 
 * [Canadian Experience Class](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/canadian-experience-class.html) — программа для тех, у кого есть хотя бы год канадского опыта работы.
 
-Если заявитель получает [номинацию от провинции](http://canadakaknado.info/faq1/#provinces), которая работает с Express entry, он идет отдельной программе [Provincial Nominee Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html), но при этом он все равно должен подходить условиям какой-то из перечисленных выше программ. 
+Если заявитель получает [номинацию от провинции](http://canadakaknado.info/faq1/#provinces), которая работает с Express entry, он идет отдельной программе [Provincial Nominee Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html), но при этом он все равно должен подходить условиям какой-то из перечисленных выше программ, чтобы создать профиль Express Entry, куда будет впоследствии прикреплена номинация.
 
 ## __Как подача документов через Express Entry выглядит на практике?__
 
