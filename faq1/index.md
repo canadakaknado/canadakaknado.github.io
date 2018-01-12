@@ -12,11 +12,13 @@
 
 На сегодняшний день существует три [федеральные программы иммиграции](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html):
 
-* [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers.html) — программа для квалифицированных работников. Именно по ней имммгрирует большинство людей, которые проживают за пределами Канады. Для того, чтобы пройти по этой программе, нужно набрать [67 баллов за знание языков, образование, рабочий опыт, возраст и так далее](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html).
+* [Federal Skilled Worker Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers.html) — программа для квалифицированных работников. Именно по ней имммгрирует большинство людей, которые проживают за пределами Канады. Для того, чтобы пройти по этой программе, нужно набрать [67 баллов за знание языков, образование, рабочий опыт, возраст и так далее](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html). 
 
 * [Federal Skilled Trades Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/skilled-trades.html) — программа для тех, кто владеет рабочей специальностью. Эта программа подойдет только тем, у кого есть [валидное предложение о работе в Канаде](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html) или канадский сертификат, подтверждающий квалификацию работника.
 
 * [Canadian Experience Class](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/canadian-experience-class.html) — программа для тех, у кого есть хотя бы год канадского опыта работы.
+
+Если заявитель получает [номинацию от провинции](http://canadakaknado.info/faq1/#provinces), которая работает с Express entry, он идет отдельной программе [Provincial Nominee Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html), но при этом он все равно должен подходить условиям какой-то из перечисленных выше программ. 
 
 ## __Как подача документов через Express Entry выглядит на практике?__
 
