@@ -45,8 +45,8 @@ __Данный сайт является базой знаний телегра�
 * [Таблица баллов Express Entry ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/criteria-comprehensive-ranking-system/grid.html)
 * [Считалка баллов Express Entry](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
 * [Список лицензированных иммиграционных консультантов Канады](http://secure.iccrc-crcic.ca/search-new/EN)
-* [Подготовка к IELTS](http://canadakaknado.info/ielts/)
-* [Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
+* 
+*[Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
 
 ### __Изучение английского и французского языков, сдача языковых экзаменов__
 
