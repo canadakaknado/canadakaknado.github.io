@@ -1,4 +1,6 @@
-# _Краткая инструкция о подготовке и сдаче экзамена по французскому языку TEF (Test d’évaluation de Français)_
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="http://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
+
+# __Краткая инструкция о подготовке и сдаче экзамена по французскому языку TEF (Test d’évaluation de Français)__
 
 Экзамен TEF - это созданный в 1998 году Торговой Палатой Парижа международный экзамен, результаты сдачи которого применяются для разных целей - таких как учеба во Франции (TEF pour les études en France), иммиграция во Францию (TEF pour la naturalisation), иммиграция в Канаду (TEF Canada) и иммиграция в Квебек (TEFAQ).  В этой статье мы поговорим о сдаче экзамена для иммиграции в Канаду, то есть о TEF Canada. 
 
