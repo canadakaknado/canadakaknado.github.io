@@ -3,6 +3,8 @@
 # __Аббревиатуры, сокращения, сленг__
 
 __CIC__ - Citizenship and Immigration Canada, старое название IRCC
+
+
 __IRCC__ - Immigration, Refugees and Citizenship Canada, департамент правительства Канады, занимающийся вопросами иммиграции, беженства и канадского гражданства
 __CEC__ - Canadian Experience Class, стрим федеральной программы иммиграции
 __FSW__ - Federal Skilled Worker, стрим федеральной программы иммиграции
