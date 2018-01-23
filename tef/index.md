@@ -84,10 +84,10 @@ TEF Canada состоит из четырех обязательных част�
 Дополн
 
 > *__Внимание! Важное дополнение!__ Чтобы добавить сертификат TEF в профиль Express Entry, воспользуйтесь следующей схемой: 
-Date of language test = Date de session
-Date of test result = Editée le
-Language test result form or sertificate number = левая часть Attestation nº (до дефиса)
-Language test PIN = правая часть Attestation nº (после дефиса)*
+* Date of language test = Date de session
+* Date of test result = Editée le
+* Language test result form or sertificate number = левая часть Attestation nº (до дефиса)
+* Language test PIN = правая часть Attestation nº (после дефиса)*
 
 
 
