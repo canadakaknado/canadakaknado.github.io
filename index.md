@@ -75,7 +75,7 @@ __Данный сайт является базой знаний телегра�
 
 ### __Для получивших ITA__
 
-* [Требования к оформлению документов по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
+* [Требования к документам, предоставляемым по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
 * [Подтверждение опыта работы (оформление reference letter)](http://julik.space/category/immigration/proof-of-work-experience/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
 * [Post e-APR Process and Common Reasons for Rejection](http://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
