@@ -90,8 +90,8 @@ __*Дополнение от [Natasha R](https://t.me/oter_n)*__
 * Language test result form or sertificate number = левая часть Attestation nº (до дефиса)
 * Language test PIN = правая часть Attestation nº (после дефиса)*
 
+_Кликните на картину для увеличения_ 
 <p style="text-align: center;"><a href="http://canadakaknado.info/assets/images/ee-tef.jpg"><img src="http://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
-_Кликните на картину для увеличения_
 
 
 
