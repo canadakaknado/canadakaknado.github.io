@@ -79,7 +79,11 @@ TEF Canada состоит из четырех обязательных част�
 
 * [CREF](http://cref.ru/) - один из центров сдачи TEF Canada в Москве, там же проводятся занятия с носителями языка и разговорные клубы. 
 
-## __Как добавить информацию о результатах TEF  в профиль Express Entry__
+__*Дополение от [DiDi](https://t.me/DiDi1988)*__
+
+
+## __Как добавить информацию о результатах TEF  в профиль Express Entry__ 
+Дополнение от 
 
 Чтобы добавить данные сертификата TEF в профиль Express Entry, воспользуйтесь следующими соответствиями: 
 
@@ -88,7 +92,7 @@ TEF Canada состоит из четырех обязательных част�
 * Language test result form or sertificate number = левая часть Attestation nº (до дефиса)
 * Language test PIN = правая часть Attestation nº (после дефиса)*
 
-<p style="text-align: center;"><a href="http://canadakaknado.info/assets/images/profile-details.jpg"><img src="http://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
+<p style="text-align: center;"><a href="http://canadakaknado.info/assets/images/ee-tef.jpg"><img src="http://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
 
 
 
