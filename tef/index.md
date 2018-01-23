@@ -88,7 +88,7 @@ TEF Canada состоит из четырех обязательных част�
 * Language test result form or sertificate number = левая часть Attestation nº (до дефиса)
 * Language test PIN = правая часть Attestation nº (после дефиса)*
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/assets/images/ee-tef.jpg"> </p> 
+<p style="text-align: center;"><a href="http://canadakaknado.info/assets/images/profile-details.jpg"><img src="http://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
 
 
 
