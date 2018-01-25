@@ -53,11 +53,11 @@ __Порядок формирования пакета:__
 
 Вскрывать сформированный Центром пакет нельзя! После получения его нужно отправить по следующему адресу:
 
-_World Education Services_
-_Attention: Documentation Center_
-_2 Carlton Street, Suite 1400_
-_Toronto, Ontario M5B 1J3_
-_Canada_
+_World Education Services_  
+_Attention: Documentation Center_  
+_2 Carlton Street, Suite 1400_  
+_Toronto, Ontario M5B 1J3_  
+_Canada_  
 
 Отправить пакет и копии переводов можно через DHL.
 Статус отправления можно проверять прямо в личном аккаунте WES.
