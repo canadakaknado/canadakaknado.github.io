@@ -138,7 +138,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Ванкувер
 
 * [@ParliamentHill](https://t.me/parliamenthill) - Оттава
-* [@BlameCanada](https://t.me/blamecanada) - Оттава
+* [@BlameCanada](https://t.me/iblamecanada) - Оттава
 
 * [@Unpackedness](https://t.me/unpackedness) - Лондон, Онтарио
 * [@BeaverNotes](https://t.me/beavernotes) - Калгари
