@@ -41,6 +41,9 @@ __Данный сайт является базой знаний телегра�
 
 * [FAQ 1. В Канаду через Express Entry (или еще как-нибудь)](http://canadakaknado.info/faq1/)
 * [FAQ 2. Иммиграция в Канаду в вопросах и ответах](http://canadakaknado.info/faq2/)
+
+* [PoF в вопросах и ответах](http://canadakaknado.info/all/pof/)
+
 * [Требования к федеральной программе иммиграции FSW](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
 * [Таблица баллов Express Entry ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/criteria-comprehensive-ranking-system/grid.html)
 * [Считалка баллов Express Entry](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
