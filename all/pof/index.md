@@ -4,15 +4,15 @@
 
 ### __Что такое PoF?__
 
-PoF - proof of funds, доказательство, что у вас есть деньги на первое время жизни в Канаде. Это официальное требование ряда программ иммиграции, если у вас нет опыта работы в Канаде или предложения о работе. Доказательства наличия необходимой суммы денег нужно представляются после ITA вместе с остальными документами. 
+PoF - proof of funds, доказательство, что у вас есть деньги на первое время жизни в Канаде. Это официальное требование ряда программ иммиграции, если у вас нет опыта работы в Канаде или предложения о работе. Доказательства наличия необходимой суммы денег представляются после ITA вместе с остальными документами. 
 
-Где находится информация о PoF на официальном сайте?
+### __Где находится информация о PoF на официальном сайте?__
 
-https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html - здесь указана вся общая информация, суммы, что принимается в качестве доказательства и т.п.
+https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html - здесь указана вся общая информация, суммы и т.п.
 
 https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html  (раздел “Proof of funds”) - тут указаны конкретные требования к документам, которые принимаются в качестве доказательства.
 
-На каком этапе придется показывать PoF?
+### __На каком этапе придется показывать PoF?__
 
 На этапе сабмита документов. Если речь идет об Express Entry, то тогда, когда заявитель попадает в выборку, получает приглашение подавать документы (ITA) и подтверждает документально все указанные сведения, в том числе и наличие средств в размере PoF. 
 
