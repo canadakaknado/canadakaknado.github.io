@@ -8,7 +8,7 @@ PoF - proof of funds, доказательство, что у вас есть д
 
 ### __Где находится информация о PoF на официальном сайте?__
 
-https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html - здесь указана вся общая информация, суммы и т.п.
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html) - здесь указана вся общая информация, суммы и т.п.
 
 https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html  (раздел “Proof of funds”) - тут указаны конкретные требования к документам, которые принимаются в качестве доказательства.
 
