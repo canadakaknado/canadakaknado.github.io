@@ -99,7 +99,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ### __Для всех__
 
-* [Список аббревиатур](http://canadakaknado.info/all/short/)
+* [Аббревиатуры, сокращения, сленг](http://canadakaknado.info/all/short/)
 * [Глоссарий терминов, используемых в иммиграционных документах](http://www.cic.gc.ca/english/helpcentre/glossary.asp)
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
