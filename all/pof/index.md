@@ -78,7 +78,7 @@ __ОБРАТИТЕ ВНИМАНИЕ__, что все описанные вари
 
 Выглядеть это может так:
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/assets/images/pof.gif"> </p>
+<p style="text-align: center;"> <img src="http://canadakaknado.info/assets/images/pof.gif" width="600"> </p>
 
 ### __У меня несколько разных счетов в нескольких банках. PoF я храню на одном из них. Я могу показать только его, и не показывать остальные счета?__
 
