@@ -129,23 +129,24 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
-* [@EveryNowAndThen](https://t.me/everynowandthen) - Торонто
-* [@alex_from_canada](https://t.me/alex_from_canada) - Торонто
-* [@mamayavtoronto](https://t.me/mamayavtoronto) - Торонто
-* [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Торонто
-* [@VisualDebris](https://t.me/visualdebris) - Торонто
+* [@EveryNowAndThen](https://t.me/everynowandthen) - Toronto, Ontario
+* [@alex_from_canada](https://t.me/alex_from_canada) - Toronto, Ontario
+* [@mamayavtoronto](https://t.me/mamayavtoronto) - Toronto, Ontario
+* [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
+* [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
 
-* [@NoFunCity](https://t.me/nofuncity) - Ванкувер
-* [@Health_Vancity](https://t.me/health_vancity) - Ванкувер
-* [@OneMoreCanadian](https://t.me/onemorecanadian) - Ванкувер
-* [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Ванкувер
+* [@NoFunCity](https://t.me/nofuncity) - Vancouver, British Columbia
+* [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
+* [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
+* [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
 
-* [@ParliamentHill](https://t.me/parliamenthill) - Оттава
-* [@BlameCanada](https://t.me/iblamecanada) - Оттава
+* [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
+* [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario
 
-* [@Unpackedness](https://t.me/unpackedness) - Лондон, Онтарио
-* [@BeaverNotes](https://t.me/beavernotes) - Калгари
-* [@julik_from_canada](https://t.me/julik_from_canada) - Саскатун
-* [@real_montReal](https://t.me/real_montreal) - Монреаль
+* [@Unpackedness](https://t.me/unpackedness) - London, Ontario
+* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
+* [@BeaverNotes](https://t.me/beavernotes) - Calgary, Alberta
+* [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
+* [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
