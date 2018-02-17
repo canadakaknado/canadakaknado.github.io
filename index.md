@@ -2,20 +2,20 @@ __Данный сайт является базой знаний телегра�
 
 Здесь вы найдете:
 
-1. __[Правила](http://canadakaknado.info/#rules)__ телеграм-чата [@canadakaknado](https://t.me/canadakaknado).
-2. __[Полезные ссылки](http://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
-3. Ссылки на дружественные тематические __[чаты](http://canadakaknado.info/#chats)__, __[блоги](http://canadakaknado.info/#blogs)__ и __[телеграм-каналы](http://canadakaknado.info/#channels)__ участников.
+1. __[Правила](https://canadakaknado.info/#rules)__ телеграм-чата [@canadakaknado](https://t.me/canadakaknado).
+2. __[Полезные ссылки](https://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
+3. Ссылки на дружественные тематические __[чаты](https://canadakaknado.info/#chats)__, __[блоги](https://canadakaknado.info/#blogs)__ и __[телеграм-каналы](https://canadakaknado.info/#channels)__ участников.
 
-<img src="http://canadakaknado.info/1x1.gif" height="8">
+<img src="https://canadakaknado.info/1x1.gif" height="8">
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
+<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/canadakaknado">@canadakaknado</a></p>
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.</p>
 
-1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в __[FAQ 1](http://canadakaknado.info/faq1)__. 
+1. __Прежде чем задавать в чате вопросы о том, как переехать в Канаду, ознакомьтесь__ с кратким обзором основных путей иммиграции в Канаду в __[FAQ 1](https://canadakaknado.info/faq1)__. 
 
-2. Если по-прежнему __останутся какие-то вопросы__, прочтите __[FAQ 2](http://canadakaknado.info/faq2)__. 
+2. Если по-прежнему __останутся какие-то вопросы__, прочтите __[FAQ 2](https://canadakaknado.info/faq2)__. 
 
 3. Если и там не нашлось ответов - задавайте их в телеграм-чате [@canadakaknado](https://t.me/canadakaknado).
 
@@ -31,16 +31,16 @@ __Данный сайт является базой знаний телегра�
 
 8. Обращения к администратору/модератору - в личке __[@aquamila](https://t.me/aquamila)__.
 
-<img src="http://canadakaknado.info/1x1.gif" height="8">
+<img src="https://canadakaknado.info/1x1.gif" height="8">
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
+<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ПОЛЕЗНЫЕ ССЫЛКИ</p>
 
 ### __Для тех, кто только собрался иммигрировать__
 
-* [FAQ 1. В Канаду через Express Entry (или еще как-нибудь)](http://canadakaknado.info/faq1/)
-* [FAQ 2. Иммиграция в Канаду в вопросах и ответах](http://canadakaknado.info/faq2/)
+* [FAQ 1. В Канаду через Express Entry (или еще как-нибудь)](https://canadakaknado.info/faq1/)
+* [FAQ 2. Иммиграция в Канаду в вопросах и ответах](https://canadakaknado.info/faq2/)
 
 * [PoF в вопросах и ответах](http://canadakaknado.info/all/pof/)
 
@@ -57,17 +57,17 @@ __Данный сайт является базой знаний телегра�
 
 __АНГЛИЙСКИЙ / IELTS__
 
-* [Подготовка к IELTS](http://canadakaknado.info/ielts/)
+* [Подготовка к IELTS](https://canadakaknado.info/ielts/)
 * [Как я 7 раз сдавал IELTS (и не сошёл с ума)](https://goo.gl/eetCgu) — опыт многократной сдачи IELTS для получения решающих баллов для иммиграции в Канаду, окончательный результат автора L8.5 R8 W7 S7.
-* [IELTS: как это было](http://telegra.ph/IELTS-kak-ehto-bylo-12-02) - опыт сдачи IELTS для получения баллов для иммиграции в Канаду с первого раза, результат автора L8 R8.5 W7 S7.
+* [IELTS: как это было](https://telegra.ph/IELTS-kak-ehto-bylo-12-02) - опыт сдачи IELTS для получения баллов для иммиграции в Канаду с первого раза, результат автора L8 R8.5 W7 S7.
 * [Подготовка с уровня Advanced](https://studentification.wordpress.com/2016/09/29/ielts-general/) — результат автора L8.5 R9 W8.5 S8.0.
 * [Подготовка на 8-ки](https://goo.gl/KnoEyR) — особое внимание уделяется райтингу, даны ссылки на большое количество полезной литературы, результат автора L9 R8.5 W8 S8.5.
-* [Подготовка на 6-ки](http://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
+* [Подготовка на 6-ки](https://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 
 __ФРАНЦУЗСКИЙ / TEF__
 
-* [Подготовка к TEF](http://canadakaknado.info/tef/)
+* [Подготовка к TEF](https://canadakaknado.info/tef/)
 * [TEF (Canada): структура теста, сдача в Москве, подготовка](http://natasharitman.ru/tef/tef_canada/)
 * [Таблица оценки устной части TEF (Expression orale)](http://natasharitman.ru/tef/tablica-ocenki-ustnojj-chasti-tef-expression-orale/)
 * [Учебники и литература для подготовки к TEF](http://natasharitman.ru/tef/uchebniki-dlya-podgotovki-k-tef/)
@@ -85,14 +85,14 @@ __ФРАНЦУЗСКИЙ / TEF__
 ### __Для тех, кто уже в пуле__
 
 * [Результаты последней выборки Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html)
-* [Результаты выборок Express Entry на canadavisa](http://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
+* [Результаты выборок Express Entry на canadavisa](https://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
 
 ### __Для получивших ITA__
 
 * [Требования к документам, предоставляемым по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
-* [Подтверждение опыта работы (оформление reference letter)](http://julik.space/category/immigration/proof-of-work-experience/)
+* [Подтверждение опыта работы (оформление reference letter)](https://julik.space/category/immigration/proof-of-work-experience/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
-* [Post e-APR Process and Common Reasons for Rejection](http://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
+* [Post e-APR Process and Common Reasons for Rejection](https://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
 * [BG Check and medical status and its meaning post-AOR](https://immiknowhow.com/2017/07/16/bg-and-medical-status-and-its-meaning-post-aor/)
 
 ### __Для тех, кто засабмитился__
@@ -102,15 +102,15 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ### __Для всех__
 
-* [Аббревиатуры, сокращения, сленг](http://canadakaknado.info/all/short/)
+* [Аббревиатуры, сокращения, сленг](https://canadakaknado.info/all/short/)
 * [Глоссарий терминов, используемых в иммиграционных документах](http://www.cic.gc.ca/english/helpcentre/glossary.asp)
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
-* [Заполнение деклараций при переезде в Канаду](http://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
+* [Заполнение деклараций при переезде в Канаду](https://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
-<img src="http://canadakaknado.info/1x1.gif" height="8">
+<img src="https://canadakaknado.info/1x1.gif" height="8">
 
-<p style="text-align: center;"> <img src="http://canadakaknado.info/canada-flag-300.jpg"> </p>
+<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
 
 ## <a id="blogs"></a>__Блоги участников чата__
 
