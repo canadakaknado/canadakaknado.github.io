@@ -1,4 +1,4 @@
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="http://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="https://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
 
 # __Краткая инструкция о подготовке и сдаче экзамена по французскому языку TEF (Test d’évaluation de Français)__
 
@@ -91,7 +91,7 @@ __*Дополнение от [Natasha R](https://t.me/oter_n)*__
 * Language test PIN = правая часть Attestation nº (после дефиса)*
 
 _Кликните на картину для увеличения_ 
-<p style="text-align: center;"><a href="http://canadakaknado.info/assets/images/ee-tef.jpg"><img src="http://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
+<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/ee-tef.jpg"><img src="https://canadakaknado.info/assets/images/ee-tef.jpg"></a></p> 
 
 
 
