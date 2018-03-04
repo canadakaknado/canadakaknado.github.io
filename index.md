@@ -80,6 +80,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Таблица перевода баллов IELTS и TEF в CLB](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
 * [Сколько денег нужно показать для иммиграции в Канаду (требования к PoF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html)
 * [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html)
+* [Официальные требования IRCC к эвалюации образования](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed.html)
 * [Процесс эвалюации российского диплома через WES](https://unpacked-cat.blogspot.ca/2015/10/educational-credential-assessment-eca-wes.html)
 
 ### __Для тех, кто уже в пуле__
