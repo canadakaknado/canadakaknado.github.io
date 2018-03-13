@@ -127,6 +127,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@TheMaritimes](https://t.me/themaritimes) - чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@AllForIELTS](https://t.me/allforielts) - чат для тех, кто готовится к IELTS.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
+* [KG_Canada](https://t.me/KG_Canada) -  иммиграция в Канаду из Кыргызстана.
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
