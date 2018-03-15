@@ -138,6 +138,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@mamayavtoronto](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
+* [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
+
 
 * [@NoFunCity](https://t.me/nofuncity) - Vancouver, British Columbia
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
