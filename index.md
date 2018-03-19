@@ -139,7 +139,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
-
+* [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
 
 * [@NoFunCity](https://t.me/nofuncity) - Vancouver, British Columbia
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
