@@ -73,7 +73,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [TEF (Canada): структура теста, сдача в Москве, подготовка](http://natasharitman.ru/tef/tef_canada/)
 * [Таблица оценки устной части TEF (Expression orale)](http://natasharitman.ru/tef/tablica-ocenki-ustnojj-chasti-tef-expression-orale/)
 * [Учебники и литература для подготовки к TEF](http://natasharitman.ru/tef/uchebniki-dlya-podgotovki-k-tef/)
-
+* [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 
 ### __Для тех, кто начал готовиться к созданию профиля__
 
@@ -124,8 +124,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="chats"></a>__Тематические чаты__
 
-* [@TheMaritimes](https://t.me/themaritimes) - чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
-* [@AllForIELTS](https://t.me/allforielts) - чат для тех, кто готовится к IELTS.
+* [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
+* [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
+* [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) -  иммиграция в Канаду из Кыргызстана.
 
