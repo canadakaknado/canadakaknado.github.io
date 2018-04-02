@@ -5,7 +5,7 @@
 
 Вот как IRCC освещает этот вопрос:
 
-*"All family members, whether accompanying or not, are required to be examined to ensure that they are not inadmissible to Canada. You must make every effort to have your non-accompanying family members examined. You cannot simply choose not to have them examined. If you are unable to meet this requirement, you must satisfy an officer that extenuating circumstances prevent you from doing so and that you have made all reasonable efforts to meet this requirement.
+*"All family members, whether accompanying or not, are required to be examined to ensure that they are not inadmissible to Canada. You must make every effort to have your non-accompanying family members examined. You cannot simply choose not to have them examined. If you are unable to meet this requirement, you must satisfy an officer that extenuating circumstances prevent you from doing so and that you have made all reasonable efforts to meet this requirement.*
 
 If all of your family members are not examined and you are unwilling or unable to provide supporting documentation to satisfy an officer that you have made all reasonable efforts to meet this requirement, your application will be decided based on information available on file which may result in the refusal of your application.
 
