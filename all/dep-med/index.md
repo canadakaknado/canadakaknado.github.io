@@ -32,7 +32,7 @@ ii) An explanation as to why your attempts to have your non-accompanying family 
 
 3. В обязательном подряке необходимо подписать декларации на английском и русском языках о том, что вы или ваш супруг/супруга понимаете, что одобрение иммиграционного кейса в вашем случае может привести к постоянной разлуке с ребенком. Эти декларации необходимо заверить у нотариуса. Образцы деклараций ниже.
 
-<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/declaration.jpg" width="600" border="1" style="border:1px solid black"><img src="https://canadakaknado.info/assets/images/declaration.jpg"></a></p> 
+<a href="https://canadakaknado.info/assets/images/declaration.jpg" width="600" border="1" style="border:1px solid black"><img src="https://canadakaknado.info/assets/images/declaration.jpg"></a>
 
 4. Также необходимо подписать декларацию о том, что вы или ваш супруг/супруга понимаете, что в будущем не сможете спонсировать ребенка. Образец этой декларации ниже. 
 
