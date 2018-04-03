@@ -32,13 +32,10 @@ ii) An explanation as to why your attempts to have your non-accompanying family 
 
 3. В обязательном подряке необходимо подписать декларации на английском и русском языках о том, что вы или ваш супруг/супруга понимаете, что одобрение иммиграционного кейса в вашем случае может привести к постоянной разлуке с ребенком. Эти декларации необходимо заверить у нотариуса. Образцы деклараций ниже.
 
-_Кликните на картину для увеличения_ 
-<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/declaration.jpg"><img src="https://canadakaknado.info/assets/images/declaration.jpg"></a></p> 
-
+<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/declaration.jpg" width="600" border="1" style="border:1px solid black"><img src="https://canadakaknado.info/assets/images/declaration.jpg"></a></p> 
 
 4. Также необходимо подписать декларацию о том, что вы или ваш супруг/супруга понимаете, что в будущем не сможете спонсировать ребенка. Образец этой декларации ниже. 
 
-_Кликните на картину для увеличения_ 
-<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/declaration-2.jpg"><img src="https://canadakaknado.info/assets/images/declaration-2.jpg"></a></p> 
+<p style="text-align: center;"><a href="https://canadakaknado.info/assets/images/declaration-2.jpg" width="600" border="1" style="border:1px solid black"><img src="https://canadakaknado.info/assets/images/declaration-2.jpg"></a></p> 
 
 5. Все вышеуказанные документы необходимо скомпоновать в один файл, приложить свидетельство во разводе и решение суда, которое обязательно при наличии несовершеннолетних детей, конечно же, с переводами, и добавить всю эту информацию в Letter of Explanation, предварив объяснением, что все эти документы призваны показать, что несмотря на все ваши усилия, ваш ребенок не смог пройти медкомиссию, вы понимаете все последствия такой ситуации, и просите пойти офицеров вам навстречу и не выносить негативное решение по вашему кейсу. 
