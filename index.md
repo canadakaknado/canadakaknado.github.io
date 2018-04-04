@@ -142,7 +142,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
 
-* [@NoFunCity](https://t.me/nofuncity) - Vancouver, British Columbia
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
