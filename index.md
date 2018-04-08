@@ -141,6 +141,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
+* [@canadianchallenge](https://t.me/canadianchallenge) - Toronto, Ontario
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
 * [@Unpackedness](https://t.me/unpackedness) - London, Ontario
