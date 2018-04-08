@@ -141,19 +141,19 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
-* [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Toronto, Ontario
+* [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
+* [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
+* [@Unpackedness](https://t.me/unpackedness) - London, Ontario
 
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
+* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
 
 * [@BeaverNotes](https://t.me/beavernotes) - Calgary, Alberta
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 
-* [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
-* [@Unpackedness](https://t.me/unpackedness) - London, Ontario
-* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 
