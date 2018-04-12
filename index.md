@@ -152,7 +152,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
 
-* [@BeaverNotes](https://t.me/beavernotes) - Calgary, Alberta
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 
