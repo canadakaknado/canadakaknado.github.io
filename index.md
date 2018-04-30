@@ -66,6 +66,8 @@ __АНГЛИЙСКИЙ / IELTS__
 * [Подготовка на 8-ки](https://goo.gl/KnoEyR) — особое внимание уделяется райтингу, даны ссылки на большое количество полезной литературы, результат автора L9 R8.5 W8 S8.5.
 * [Подготовка на 6-ки](https://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
+* [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy).
+
 
 __ФРАНЦУЗСКИЙ / TEF__
 
@@ -130,6 +132,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) -  иммиграция в Канаду из Кыргызстана.
+* [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy).
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
