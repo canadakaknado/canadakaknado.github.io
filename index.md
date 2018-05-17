@@ -129,8 +129,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="chats"></a>__Тематические чаты__
 
-* [@Manitoba Immigration](https://t.me/manitobapnp) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
-* [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в провинцию Manitoba.
+* [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
+* [@Manitoba Immigration](https://t.me/manitobapnp) - телеграм-чат посвящен иммиграции в провинцию Manitoba.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
