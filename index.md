@@ -164,8 +164,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 
-* [@blessed by elks](https://t.me/skiesqweqwe) - Nova Scotia, Halifax
-* [@Izzy life](https://t.me/izzy_life) - Nova Scotia, Halifax
+* [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
+* [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
