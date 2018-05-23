@@ -150,6 +150,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
 * [@canadianchallenge](https://t.me/canadianchallenge) - Toronto, Ontario
+* [@Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
+
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
 * [@Unpackedness](https://t.me/unpackedness) - London, Ontario
@@ -162,6 +164,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 
+* [@blessed by elks](https://t.me/skiesqweqwe) - Nova Scotia, Halifax
 * [@Izzy life](https://t.me/izzy_life) - Nova Scotia, Halifax
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
