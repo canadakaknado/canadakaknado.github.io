@@ -66,6 +66,12 @@ __Данный сайт является базой знаний телегра�
 * [Статус постоянного резидента Канады: что можно, что нельзя, в каких случаях теряется и т.п.](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/pr-card/understand-pr-status.html)
 * [Как получить LMIA - личный опыт](http://forum.chemodan.ua/index.php?showtopic=78524) 
 
+### __Иммиграция через посредника__
+
+* [Кто может быть посредником аппликанта в иммиграционном процессе](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html)
+* [Как выбрать платного посредника для иммиграционном процессе](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose.html)
+* [Кто имеет право оказывать иммиграционные услуги](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html)
+
 ### __Изучение английского и французского языков, сдача языковых экзаменов__
 
 __АНГЛИЙСКИЙ / IELTS__
