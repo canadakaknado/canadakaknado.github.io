@@ -69,7 +69,7 @@ __Данный сайт является базой знаний телегра�
 ### __Иммиграция через посредника__
 
 * [Кто может быть посредником аппликанта в иммиграционном процессе](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html)
-* [Как выбрать платного посредника для иммиграционном процессе](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose.html)
+* [Как выбрать платного посредника для прохождения иммиграционного процесса](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose.html)
 * [Кто имеет право оказывать иммиграционные услуги](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html)
 
 ### __Изучение английского и французского языков, сдача языковых экзаменов__
