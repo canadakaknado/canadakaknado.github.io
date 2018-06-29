@@ -178,6 +178,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
+* [@getbt](https://t.me/getbt) - Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
