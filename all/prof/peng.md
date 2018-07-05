@@ -1,6 +1,6 @@
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="https://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
 
-# __Моя история о получении статус профессионального инженера в Канаде, ещё не дошедшая до стадии "и жила она долго и счастливо в статусе P.Eng."__
+# __Моя история о получении статуса профессионального инженера в Канаде, ещё не дошедшая до стадии "и жила она долго и счастливо в статусе P.Eng."__
 
 __*Автор: [@Julia_maple](https://t.me/@Julia_maple)*__
 
