@@ -133,6 +133,10 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
 * [Заполнение деклараций при переезде в Канаду](https://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
+### __После переезда__
+
+* [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
+
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
