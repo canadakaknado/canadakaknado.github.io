@@ -103,7 +103,7 @@ __ОБРАТИТЕ ВНИМАНИЕ__, что все описанные вари
 
 ### __16. У меня несколько разных счетов в нескольких банках. PoF я храню на одном из них. Я могу показать только его, и не показывать остальные счета?__
 
-В требования к документам, подтверждающим PoF сказано: “The applicant should provide an official letter(s) from one or more financial institutions that lists all current bank and investment accounts as well as outstanding debts, such as credit card debts and loans.” 
+В требования к документам, подтверждающим PoF сказано: [“The applicant should provide an official letter(s) from one or more financial institutions that lists all current bank and investment accounts as well as outstanding debts, such as credit card debts and loans.”](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html) 
 
 Это означает, что нужно показать все действующие банковские и инвестиционные счета, а также кредиты, долги по кредитным картам и т.п. На практике немало заявителей пренебрегали этим требованием без негативных последствий. Но гарантировать, конечно, никто ничего не может. 
 
