@@ -155,7 +155,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@Manitoba Immigration](https://t.me/manitobapnp) - телеграм-чат посвящен иммиграции в провинцию Manitoba.
-* [@New Brunswick session 2018](https://t.me/NBsessionNoInvp) - обсуждение выездных сессий, которые проводит Нью-Брансвик в 2018 году.
+* [@New Brunswick session 2018](https://t.me/NBsessionNoInv) - обсуждение выездных сессий, которые проводит Нью-Брансвик в 2018 году.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
