@@ -115,6 +115,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 ### __Для получивших ITA__
 
 * [Требования к документам, предоставляемым по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
+* [Что такое misrepresentation (мошенничество с документами)](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/document-misrepresentation.html)
 * [Подтверждение опыта работы (оформление reference letter)](https://julik.space/category/immigration/proof-of-work-experience/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
 * [Post e-APR Process and Common Reasons for Rejection](https://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
