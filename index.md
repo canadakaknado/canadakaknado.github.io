@@ -177,6 +177,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
 * [@canadianchallenge](https://t.me/canadianchallenge) - Toronto, Ontario
 * [@Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
+* [@Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
