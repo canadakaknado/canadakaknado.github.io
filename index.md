@@ -194,6 +194,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
+* [@ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 
