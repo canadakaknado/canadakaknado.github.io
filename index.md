@@ -195,6 +195,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 
+* [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
+
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 
