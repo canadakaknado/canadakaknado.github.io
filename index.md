@@ -202,6 +202,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
+
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
+* [@Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
