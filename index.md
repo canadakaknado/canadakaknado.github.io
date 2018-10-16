@@ -118,7 +118,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Что такое misrepresentation (мошенничество с документами)](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/document-misrepresentation.html)
 * [Подтверждение опыта работы (оформление reference letter)](https://julik.space/category/immigration/proof-of-work-experience/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
- * [Справки о несудимости для Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence/police-certificates.html)
+ * [Post e-APR Process and Common Reasons for Rejection](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence/police-certificates.html)
  * [Post e-APR Process and Common Reasons for Rejection](https://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
 * [BG Check and medical status and its meaning post-AOR](https://immiknowhow.com/2017/07/16/bg-and-medical-status-and-its-meaning-post-aor/)
 * [Ребенок аппликанта или его супруга/супруги от предыдущего брака не может пройти медкомиссию: решение проблемы](https://canadakaknado.info/all/dep-med/)
