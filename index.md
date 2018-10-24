@@ -198,7 +198,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 * [@ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
-* [@Almaty - Halifax](https://t.me/halifax_notes) - Halifax, Nova Scotia
+* [@Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 
@@ -206,5 +206,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 * [@Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
+* [@MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
