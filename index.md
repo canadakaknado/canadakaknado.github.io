@@ -161,8 +161,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
-* [@KG_Canada](https://t.me/KG_Canada) -  иммиграция в Канаду из Кыргызстана.
+* [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
+* [@Trucking_EU](https://t.me/Trucking_EU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
 * [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
 * [@ca1gary](https://t.me/@ca1gary) - Калгари Беседка.
