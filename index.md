@@ -163,8 +163,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) -  иммиграция в Канаду из Кыргызстана.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
-* [@CanadaBower](https://t.me/CanadaBower) -  ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
-* [@VancouverAlcove](https://t.me/VancouverAlcove) -  Ванкуверская Беседка.
+* [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
+* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
+* [@ca1gary](https://t.me/@ca1gary) - Калгари Беседка.
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
