@@ -157,7 +157,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
-* [@New Brunswick sessions](https://t.me/NBsession) - обсуждение текущих выездных сессий Нью-Брансвика.
+* [@NBsession](https://t.me/NBsession) - обсуждение текущих выездных сессий Нью-Брансвика.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
@@ -166,8 +166,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Trucking_EU](https://t.me/Trucking_EU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
 * [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
-* [@ca1gary](https://t.me/@ca1gary) - Калгари Беседка.
-* [@montreal_chat](https://t.me/@montreal_chat) - Монреальская беседка.
+* [@ca1gary](https://t.me/ca1gary) - Калгари Беседка.
+* [@montreal_chat](https://t.me/montreal_chat) - Монреальская беседка.
 
 
 ## <a id="channels"></a> __Тематические каналы участников__
