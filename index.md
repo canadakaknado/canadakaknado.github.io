@@ -167,6 +167,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
 * [@ca1gary](https://t.me/@ca1gary) - Калгари Беседка.
+* [@montreal_chat](https://t.me/@montreal_chat) - Монреальская беседка.
+
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
