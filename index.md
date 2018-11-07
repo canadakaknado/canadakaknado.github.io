@@ -174,7 +174,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
-* [@EveryNowAndThen](https://t.me/everynowandthen) - Toronto, Ontario
 * [@alex_from_canada](https://t.me/alex_from_canada) - Toronto, Ontario
 * [@mamayavtoronto](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
