@@ -174,7 +174,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
-* [@alex_from_canada](https://t.me/alex_from_canada) - Toronto, Ontario
 * [@mamayavtoronto](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
@@ -210,5 +209,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 * [@Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
 * [@MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
+* [@alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
