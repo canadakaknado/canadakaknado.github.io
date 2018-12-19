@@ -171,7 +171,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
 * [@ca1gary](https://t.me/ca1gary) - Калгари Беседка.
 * [@montreal_chat](https://t.me/montreal_chat) - Монреальская беседка.
-
+* [@canada_it](https://t.me/canada_it) - телеграм-чат для IT-специалистов, которые планируют переезд в Канаду или уже находятся там.
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
