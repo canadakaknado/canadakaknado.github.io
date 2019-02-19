@@ -204,6 +204,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 * [@ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
 * [@Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
+* [@Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 
