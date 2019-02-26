@@ -186,10 +186,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
 * [@Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 * [@Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
+* [@Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
-* [@Unpackedness](https://t.me/unpackedness) - London, Ontario
+* [@Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
