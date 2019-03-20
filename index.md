@@ -217,4 +217,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
 * [@alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
 
+* [@never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
+
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
