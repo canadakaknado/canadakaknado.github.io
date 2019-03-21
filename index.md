@@ -66,9 +66,9 @@ __Данный сайт является базой знаний телегра�
 * [Criminal Rehabilitation](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
 * [Какие проблемы со здоровьем считаются препятствием к иммиграции, и можно ли это препятствие обойти](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/medical-requirements/refusals-inadmissibility.html)  
 * [Статус постоянного резидента Канады: что можно, что нельзя, в каких случаях теряется и т.п.](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/pr-card/understand-pr-status.html)
-* [Как получить LMIA - личный опыт](http://forum.chemodan.ua/index.php?showtopic=78524) 
+* [Как получить LMIA - личный опыт](http://forum.chemodan.com.ua/index.php?showtopic=78524) 
 * [Сколько нужно заплатить за рассмотрение кейса (иммиграционного и не только)](http://www.cic.gc.ca/english/information/fees/index.asp) 
-* [Иммирация через профессию дальнобойщика](http://forum.chemodan.ua/index.php?showtopic=80584&st=20&p=1166304&#entry1166304)
+* [Иммирация через профессию дальнобойщика](http://forum.chemodan.com.ua/index.php?showtopic=80584&st=20&p=1166304&#entry1166304)
 
 
 ### __Иммиграция через посредника__
