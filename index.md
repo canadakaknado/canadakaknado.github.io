@@ -210,7 +210,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
-* __NEW__ [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik
+* __NEW__ [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik __NEW__
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 
