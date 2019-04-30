@@ -163,6 +163,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
 * [@NBsession](https://t.me/NBsession) - обсуждение текущих выездных сессий Нью-Брансвика.
 * [@AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
+* [@Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду. 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
