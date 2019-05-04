@@ -1,4 +1,4 @@
-__Данный сайт является базой знаний телеграм-чата [@canadakaknado](https://t.me/canadakaknado), посвященном иммиграции в Канаду.__
+__Данный [сайт](https://canadakaknado.info/) является базой знаний телеграм-чата [@canadakaknado](https://t.me/canadakaknado), посвященном иммиграции в Канаду.__
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
