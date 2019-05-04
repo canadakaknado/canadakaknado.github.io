@@ -8,8 +8,9 @@ __Данный сайт является базой знаний телегра�
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПОЛЕЗНЫЕ ССЫЛКИ ДЛЯ ЖИТЕЛЕЙ ОНТАРИО И НЕ ТОЛЬКО<a href="https://t.me/canadakaknado">@canadakaknado</a></p>
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.</p>
+### ПОЛЕЗНЫЕ ССЫЛКИ ДЛЯ ЖИТЕЛЕЙ ОНТАРИО И НЕ ТОЛЬКО
+
+
 
 Проверка кредит скора:
 Эквифакс - borrowell.com
