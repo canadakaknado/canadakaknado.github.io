@@ -161,7 +161,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
-* [@NBsession](https://t.me/NBsession) - обсуждение текущих выездных сессий Нью-Брансвика.
+* [@NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
 * [@AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
 * [@Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду. 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
