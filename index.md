@@ -129,7 +129,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ### __Для тех, кто засабмитился__
 
-* [Как дозвониться в CIC из Канады и извне Канады](https://telegra.ph/Kak-dozvonitsya-do-CIC-izvne-Kanady-i-iz-nee-11-23)
+* [Как дозвониться в IRCC (CIC) из Канады и извне Канады](https://telegra.ph/Kak-dozvonitsya-do-CIC-izvne-Kanady-i-iz-nee-11-23)
 * [MyImmitracker и как им пользоваться](https://goo.gl/IeYW4U)
 
 ### __Для всех__
