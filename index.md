@@ -174,6 +174,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
 * [@ca1gary](https://t.me/ca1gary) - Калгари Беседка.
 * [@montreal_chat](https://t.me/montreal_chat) - Монреальская беседка.
+* [@winnipeg_ru](https://t.me/winnipeg_ru) - русскоязычная группа жителей Виннипега..
 * [@canada_it](https://t.me/canada_it) - телеграм-чат для IT-специалистов, которые планируют переезд в Канаду или уже находятся там.
 * [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
 * [@Future Canadian (MSK)](https://t.me/joinchat/CAW5v0hazzS8yk49XLnpVw) - оффлайн-встречи будущих канадцев, которые живут в Москве.
