@@ -194,6 +194,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 * [@Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
 * [@Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
+* [@CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario **NEW**
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
