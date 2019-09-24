@@ -184,17 +184,17 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
-* [@mamayavtoronto](https://t.me/mamayavtoronto) - Toronto, Ontario
-* [@FoodAndTravelToronto](https://t.me/foodandtraveltoronto) - Toronto, Ontario
-* [@VisualDebris](https://t.me/visualdebris) - Toronto, Ontario
-* [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
-* [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
-* [@canadianchallenge](https://t.me/canadianchallenge) - Toronto, Ontario
+* [Мама, я в Торонто!](https://t.me/mamayavtoronto) - Toronto, Ontario
+* [Food & Travel blog 🇨🇦](https://t.me/foodandtraveltoronto) - Toronto, Ontario
+* [visual debris](https://t.me/visualdebris) - Toronto, Ontario
+* [Торонто Мон Амур](https://t.me/to_mon_amour) - Toronto, Ontario
+* [Vika в Канаде](https://t.me/vika_canada) - Toronto, Ontario
+* [Canadian Challenge](https://t.me/canadianchallenge) - Toronto, Ontario
 * [Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
-* [@Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
+* [Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 * [@Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
-* [@Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
-* [@CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
+* [Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
+* [CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
