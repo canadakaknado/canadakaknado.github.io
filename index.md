@@ -190,11 +190,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@to_mon_amour](https://t.me/to_mon_amour) - Toronto, Ontario
 * [@vika_canada](https://t.me/vika_canada) - Toronto, Ontario
 * [@canadianchallenge](https://t.me/canadianchallenge) - Toronto, Ontario
-* [@Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
+* [Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
 * [@Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 * [@Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
 * [@Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
-* [@CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario **NEW**
+* [@CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
@@ -205,11 +205,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
 * [@getbt](https://t.me/getbt) - Vancouver, British Columbia
 * [@Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
-* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia
+* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
-* [@Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta **NEW**
+* [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
@@ -217,6 +217,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
 * [@Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
 * [@Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
+* [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia **NEW**
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 * [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
