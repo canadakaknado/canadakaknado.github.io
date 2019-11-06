@@ -159,26 +159,36 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="chats"></a>__Тематические чаты__
 
+* [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
+
+* [@Финансы в Канаде](https://t.me/canada_finances) - налоги, инвестиции, зарплаты, пенсии, выплаты, кредиты и прочие финансовые вопросы в разрезе канадской действительности.
+
+* [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
+* [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
+* [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
+
 * [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
 * [@NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
 * [@AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
+
 * [@Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду. 
-* [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
-* [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
+
+* [@Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
+* [@canada_it](https://t.me/canada_it) - телеграм-чат для IT-специалистов, которые планируют переезд в Канаду или уже находятся там.
+
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
-* [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
-* [@Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
-* [@CanadaBower](https://t.me/CanadaBower) - ответвление телеграм чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
+* [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
+* [@Future Canadian (MSK)](https://t.me/joinchat/CAW5v0hazzS8yk49XLnpVw) - оффлайн-встречи будущих канадцев, которые живут в Москве.
+
+### Городские чаты:
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
 * [@ca1gary](https://t.me/ca1gary) - Калгари Беседка.
 * [@montreal_chat](https://t.me/montreal_chat) - Монреальская беседка.
 * [@winnipeg_ru](https://t.me/winnipeg_ru) - русскоязычная группа жителей Виннипега..
-* [@canada_it](https://t.me/canada_it) - телеграм-чат для IT-специалистов, которые планируют переезд в Канаду или уже находятся там.
-* [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
-* [@Future Canadian (MSK)](https://t.me/joinchat/CAW5v0hazzS8yk49XLnpVw) - оффлайн-встречи будущих канадцев, которые живут в Москве.
-* [@Финансы в Канаде](https://t.me/canada_finances) - налоги, инвестиции, зарплаты, пенсии, выплаты, кредиты и прочие финансовые вопросы в разрезе канадской действительности.
+* [@TorontoRus](https://t.me/TorontoRus) - открытый чат для жителей Торонто и GTA.
+* [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага.
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
@@ -195,6 +205,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
 * [Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
 * [CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
+* [Yet Another Toronto Channel](https://t.me/y_a_t_c) - Toronto, Ontario **NEW**
+* [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario **NEW** автор канала работает в канадской киноиндустрии
+
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
@@ -217,7 +230,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
 * [@Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
 * [@Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
-* [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia **NEW**
+* [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 * [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
