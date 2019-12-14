@@ -225,6 +225,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
+* [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, России (with a provincial nomination from Alberta) **NEW**
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
