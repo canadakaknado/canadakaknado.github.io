@@ -182,9 +182,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
 * [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
-* [@Канада Рус - Canada Rus](https://t.me/https://t.me/CanadaRus) - почти немодерируемый русскоязычный чат на тему Канады.
-
 * [@Future Canadian (MSK)](https://t.me/joinchat/CAW5v0hazzS8yk49XLnpVw) - оффлайн-встречи будущих канадцев, которые живут в Москве.
+* [@Канада Рус - Canada Rus](https://t.me/CanadaRus) - почти немодерируемый русскоязычный чат на тему Канады.
 
 ### Городские чаты:
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
