@@ -157,15 +157,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>КОНТЕНТ ОТ УЧАСТНИКОВ ЧАТОВ (БЫВШИХ И НАСТОЯЩИХ)</p>
-
-## <a id="blogs"></a>__Блоги участников чата__
-
-* __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/).
-* __[Julik's Knowledge Base](https://julik.space/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана.
-* __[MEDVEDNEO - Блог Канадского Иммигранта](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником от [@MedvedNeo](https://t.me/MedvedNeo/).
-* Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu.
-* __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ТЕМАТИЧЕСКИЕ ЧАТЫ, БЛОГИ И ТЕЛЕГРАМ-КАНАДЫ УЧАСТНИКОВ ЧАТА</p>
 
 ## <a id="chats"></a>__Тематические чаты__
 
@@ -200,6 +192,14 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@winnipeg_ru](https://t.me/winnipeg_ru) - русскоязычная группа жителей Виннипега..
 * [@TorontoRus](https://t.me/TorontoRus) - открытый чат для жителей Торонто и GTA.
 * [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага.
+
+## <a id="blogs"></a>__Блоги участников чата__
+
+* __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/).
+* __[Julik's Knowledge Base](https://julik.space/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана.
+* __[MEDVEDNEO - Блог Канадского Иммигранта](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником от [@MedvedNeo](https://t.me/MedvedNeo/).
+* Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu.
+* __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
 
 ## <a id="channels"></a> __Тематические каналы участников__
 
