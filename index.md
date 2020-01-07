@@ -4,7 +4,8 @@ __Данный сайт является базой знаний телегра�
 
 1. __[Правила](https://canadakaknado.info/#rules)__ телеграм-чата [@canadakaknado](https://t.me/canadakaknado).
 2. __[Полезные ссылки](https://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
-3. Ссылки на дружественные тематические __[чаты](https://canadakaknado.info/#chats)__, __[блоги](https://canadakaknado.info/#blogs)__ и __[телеграм-каналы](https://canadakaknado.info/#channels)__ участников.
+3. __[Полезные инструменты](https://canadakaknado.info/#tools)__, облегчающие заполнение документов или получение информации.
+4. Ссылки на дружественные тематические __[чаты](https://canadakaknado.info/#chats)__, __[блоги](https://canadakaknado.info/#blogs)__ и __[телеграм-каналы](https://canadakaknado.info/#channels)__ участников.
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
@@ -149,7 +150,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg" width = "150"> </p>
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ПОЛЕЗНЫЕ ИНСТРУМЕНТЫ</p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="tools"></a>ПОЛЕЗНЫЕ ИНСТРУМЕНТЫ</p>
 
 * [Расширение для браузера Chorme CIC PR TableHelper](https://canadakaknado.info/all/chrome-extension/)
 
