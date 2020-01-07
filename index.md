@@ -147,11 +147,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
-<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
-
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ПОЛЕЗНЫЕ ИНСТРУМЕНТЫ</p>
 
-* [Расширение для браузера Chorme [CIC PR TableHelper]](https://canadakaknado.info/all/chrome-extension/)
+* [Расширение для браузера Chorme CIC PR TableHelper](https://canadakaknado.info/all/chrome-extension/)
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
