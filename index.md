@@ -72,7 +72,6 @@ __Данный сайт является базой знаний телегра�
 * [Сколько нужно заплатить за рассмотрение кейса (иммиграционного и не только)](http://www.cic.gc.ca/english/information/fees/index.asp) 
 * [Иммиграция через профессию дальнобойщика](http://forum.chemodan.com.ua/index.php?showtopic=80584&st=20&p=1166304&#entry1166304)
 
-
 ### __Иммиграция через посредника__
 
 * [Кто может быть посредником аппликанта в иммиграционном процессе](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html)
@@ -128,7 +127,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [BG Check and medical status and its meaning post-AOR](https://immiknowhow.com/2017/07/16/bg-and-medical-status-and-its-meaning-post-aor/)
 * [Ребенок аппликанта или его супруга/супруги от предыдущего брака не может пройти медкомиссию: решение проблемы](https://canadakaknado.info/all/dep-med/)
 
-
 ### __Для тех, кто засабмитился__
 
 * [Как дозвониться в IRCC (CIC) из Канады и извне Канады](https://telegra.ph/Kak-dozvonitsya-do-CIC-izvne-Kanady-i-iz-nee-11-23)
@@ -146,6 +144,14 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 * __Опыт получения лицензии профессионального юриста в Канаде__ от [@Oxana_M](https://t.me/Oxana_M): [часть 1](https://messy-tortilla.livejournal.com/247535.html), [часть 2](https://messy-tortilla.livejournal.com/247676.html), [часть 3](https://messy-tortilla.livejournal.com/247974.html) - *если вы решите обратиться к Оксане, пожалуйста, ограничьтесь только темой получения лицензии юриста в Канаде, никаких юридических консультаций ни на какие темы Оксана не дает*.
+
+<img src="https://canadakaknado.info/1x1.gif" height="8">
+
+<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg"> </p>
+
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ПОЛЕЗНЫЕ ИНСТРУМЕНТЫ</p>
+
+* [Расширение для браузера Chorme [CIC PR TableHelper]](https://canadakaknado.info/all/chrome-extension/)
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
