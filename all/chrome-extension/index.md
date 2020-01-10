@@ -27,13 +27,13 @@
 Ячейка D - город(а) или другие населенные пункты, которые вы посещали в этой стране, через пробел (запятые и другие знаки препинания использовать не нужно).
 Ячейка Е - цель визита; если цель состоит из нескольких слов, так же разделите их пробелами (запятые и другие знаки препинания использовать не нужно).
 
-<p style="text-align: center;"> <img src="https://canadakaknado.info/assets/images/my-travel-history.jpg"> </p>
+<p style="text-align: center;"> <img src="https://canadakaknado.info/assets/images/my-travel-history.jpg" width="500"> </p>
 
 Помните, что никакой другой информации в таблице содержаться не должно: ни других ячеек, ни других строк (например, названий колонок). 
 
 3. Далее файл необходимо скачать, выбрав формат csv. 
 
-<p style="text-align: center;"> <img src="https://canadakaknado.info/assets/images/travel-history-download.jpg"> </p>
+<p style="text-align: center;"> <img src="https://canadakaknado.info/assets/images/travel-history-download.jpg" width="500"> </p>
 
 
 
