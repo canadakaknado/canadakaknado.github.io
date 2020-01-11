@@ -22,11 +22,9 @@
 
 ### Видеоинструкция
 
-
 ![](https://canadakaknado.info/assets/images/CIC_PR_TableHelper_1.5_with_subtitles.mp4)
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DRZ4JetBk6o/0.jpg)](https://www.youtube.com/watch?v=DRZ4JetBk6o)
+[Эта же видеоинструкция на Youtube](https://www.youtube.com/watch?v=DRZ4JetBk6o)
 
 ### Как создать CSV-файл
 
