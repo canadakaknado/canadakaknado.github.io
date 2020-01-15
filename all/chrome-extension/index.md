@@ -2,7 +2,7 @@
 
 # __CIC PR TableHelper__
 
-Расширение для браузера Chrome [CIC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn), созданное [@vzakhar](https://t.me/vzakhar), выполняет следующие функции: 
+Расширение для браузера Chrome [CIC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn) (работает с анкетой, которая заполняется после ITA), созданное [@vzakhar](https://t.me/vzakhar), выполняет следующие функции: 
 
 1. Добавляет во все таблицы в профиле Express Entry кнопки ⬆️⬇️ (up / down) для перемещения строк в таблицах вверх и вниз. Новые кнопки располагаются справа от кнопки "Delete Row".<br><br><img src="https://canadakaknado.info/assets/images/chrome-ext-2.png" width="450">
 
