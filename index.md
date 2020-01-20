@@ -220,7 +220,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
 * [Yet Another Toronto Channel](https://t.me/y_a_t_c) - Toronto, Ontario **NEW**
 * [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario **NEW** автор канала работает в канадской киноиндустрии
-
+* [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario **NEW**
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
