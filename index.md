@@ -223,9 +223,10 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
 * [Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
 * [CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
-* [Yet Another Toronto Channel](https://t.me/y_a_t_c) - Toronto, Ontario **NEW**
-* [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario **NEW** автор канала работает в канадской киноиндустрии
-* [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario **NEW**
+* [Yet Another Toronto Channel](https://t.me/y_a_t_c) - Toronto, Ontario
+* [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario (автор канала работает в канадской киноиндустрии)
+* [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario
+* [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
@@ -244,7 +245,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
-* [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) **NEW**
+* [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
@@ -258,7 +259,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
-* [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan **NEW**
+* [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
 
 * [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 * [@Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
