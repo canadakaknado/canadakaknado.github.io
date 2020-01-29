@@ -238,6 +238,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@getbt](https://t.me/getbt) - Vancouver, British Columbia
 * [@Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
 * [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
+* [SPb.RU => Canada](https://t.me/spbtocanada) - Moncton, New Brunswik -> Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
