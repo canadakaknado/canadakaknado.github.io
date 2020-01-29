@@ -237,6 +237,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
 * [@getbt](https://t.me/getbt) - Vancouver, British Columbia
 * [@Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
+* [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
