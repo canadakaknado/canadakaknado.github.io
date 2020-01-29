@@ -226,6 +226,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
 * [@Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
+* [Аналитики](https://t.me/serious_analytical_channel) - Ottawa, Ontario
 
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
