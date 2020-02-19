@@ -12,7 +12,7 @@ __Инструкторы вождения:__
 __Риелторы:__
 Англоязычные:  
 Брендон facebook.com/GTAHomeGuy от @DenisKormalev  
-(647)-203-9395 Тереза от @pavluha_19rc @renat242. 
+(647)-203-9395 Тереза от @pavluha_19rc @renat242   
 Русскоговорящие:  
 (647)-2959454 Oksana Sidko oksanasidko@hotmail.com от @rilian @nex_54  
 (647)-9889717 Anzhela Gamalevych angelacentury21@gmail.com от @nex_54  
