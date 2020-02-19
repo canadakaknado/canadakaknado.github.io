@@ -9,9 +9,9 @@ __Инструкторы вождения:__
 (647)-996-3747 Умида  
 (647)-922-0810 Григорий  
 
-__Риелторы:__
+__Риелторы:__  
 Англоязычные:  
-Брендон facebook.com/GTAHomeGuy от @DenisKormalev  
+__[Брендон](facebook.com/GTAHomeGuy)__ (рекомендация @DenisKormalev)
 (647)-203-9395 Тереза от @pavluha_19rc @renat242   
 Русскоговорящие:  
 (647)-2959454 Oksana Sidko oksanasidko@hotmail.com от @rilian @nex_54  
