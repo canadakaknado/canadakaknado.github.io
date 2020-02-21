@@ -118,7 +118,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [Результаты последней выборки Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html)
 * [Результаты выборок Express Entry на canadavisa](https://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
-* [Результаты последней выборки Express Entry в телеграме - бот @ExpEntBot](https:/t.me/@ExpEntBot)
+* [Результаты последней выборки Express Entry в телеграме - бот @ExpEntBot](https:/t.me/ExpEntBot)
 
 ### __Для получивших ITA__
 
