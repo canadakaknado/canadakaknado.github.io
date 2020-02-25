@@ -1,5 +1,5 @@
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/CanadaBower">@CanadaBower (Канадская беседка)</a></p>
-15
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА<br><a href="https://t.me/CanadaBower">@CanadaBower (Канадская беседка)</a></p>
+
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.</p>
 
 1. В чате [@CanadaBower (Беседка)](https://t.me/CanadaBower) запрещено обсуждать следующие темы:
@@ -10,11 +10,11 @@
     ▪️визиторские (туристические) визы   
     ▪️эвалюацию дипломов  
     ▪️референсы  
-    ▪️и прочие вопросы, непосредственно касающиеся темы процесса иммиграции в Канаду.<br><br> 
+    ▪️и прочие вопросы, непосредственно касающиеся темы процесса иммиграции в Канаду.<br>
     
-    Финансовые вопросы лучше обсуждать в чате [Финансы в Канаде](https://t.me/canada_finances).<br><br> 
+    Финансовые вопросы лучше обсуждать в чате [Финансы в Канаде](https://t.me/canada_finances).<br>
     
-    Кроме того, помните, что существует большое количество тематических чатов, созданных (беседки других городов, чаты про иммиграцию и т.п.) - найти их можно на сайте [canadakaknado.info](https://canadakaknado.info) в разделе [Тематические чаты](https://canadakaknado.info/#chats).<br><br>  
+    Кроме того, помните, что существует большое количество тематических чатов, созданных (беседки других городов, чаты про иммиграцию и т.п.) - найти их можно на сайте [canadakaknado.info](https://canadakaknado.info) в разделе [Тематические чаты](https://canadakaknado.info/#chats).<br>
 
 2. Тут запрещены переходы на личности, расистские, ксенофобские, мизогинические и т.п. высказывания; не стоит коверкать имена собственные, особенно названия стран. 
 
