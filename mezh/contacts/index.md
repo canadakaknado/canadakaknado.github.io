@@ -24,5 +24,5 @@ __Yana Gidalevich__ (647) 884-7136, помогает снять и удален�
 __[Apriori Legal Services Professional Corporation](http://www.apriorilaw.ca/about-us-3)__ (рекомендация @AnniePrusova) 
 
 ## __Переводчики ATIO__   
-__Katerina Razumova__ (416) 616-5077, katya.razumova@gmail.com
+__Katerina Razumova__ (416) 616-5077, katya.razumova@gmail.com  
 __Igor Isaev__ (647) 705-1443, isayev.igor@gmail.com, www.isaev.ca, [@igor_isayev](https://t.me/igor_isayev)
