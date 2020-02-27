@@ -198,6 +198,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@winnipeg_ru](https://t.me/winnipeg_ru) - русскоязычная группа жителей Виннипега..
 * [@TorontoRus](https://t.me/TorontoRus) - открытый чат для жителей Торонто и GTA.
 * [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага.
+* [@Ottawa_2020](https://t.me/ottawa_2020) - Оттава.
 
 ## <a id="blogs"></a>__Блоги участников чата__
 
