@@ -192,11 +192,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Канада Рус - Canada Rus](https://t.me/CanadaRus) - почти немодерируемый русскоязычный чат на тему Канады.
 
 ### Городские чаты:
-* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкуверская Беседка.
-* [@ca1gary](https://t.me/ca1gary) - Калгари Беседка.
-* [@montreal_chat](https://t.me/montreal_chat) - Монреальская беседка.
-* [@winnipeg_ru](https://t.me/winnipeg_ru) - русскоязычная группа жителей Виннипега..
-* [@TorontoRus](https://t.me/TorontoRus) - открытый чат для жителей Торонто и GTA.
+* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер.
+* [@ca1gary](https://t.me/ca1gary) - Калгари.
+* [@montreal_chat](https://t.me/montreal_chat) - Монреаль.
+* [@winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег.
+* [@TorontoRus](https://t.me/TorontoRus) - Торонто и GTA.
 * [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага.
 * [@Ottawa_2020](https://t.me/ottawa_2020) - Оттава.
 
