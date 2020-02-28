@@ -135,13 +135,13 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [Как дозвониться в IRCC (CIC) из Канады и извне Канады](https://telegra.ph/Kak-dozvonitsya-do-CIC-izvne-Kanady-i-iz-nee-11-23)
 * [MyImmitracker и как им пользоваться](https://goo.gl/IeYW4U)
+* [Check processing times - текущее время рассмотрения кейса](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html)
 
 ### __Для всех__
 
 * [Аббревиатуры, сокращения, сленг](https://canadakaknado.info/all/short/)
 * [Глоссарий терминов, используемых в иммиграционных документах](http://www.cic.gc.ca/english/helpcentre/glossary.asp)
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
-* [Кто где в Канаде из участников чата](https://goo.gl/qXZg1L)
 * [Заполнение деклараций при переезде в Канаду](https://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
 ### __После переезда__
