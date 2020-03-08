@@ -251,6 +251,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
 * [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
+* [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
@@ -261,7 +262,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
-* [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
+* [@Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswik)
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
