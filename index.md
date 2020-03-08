@@ -262,7 +262,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
-* [@Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswik)
+* [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswik)
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
