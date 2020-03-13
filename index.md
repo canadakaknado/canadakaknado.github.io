@@ -106,7 +106,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 ### __Для тех, кто начал готовиться к созданию профиля__
 
 * [Классификатор NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/find-national-occupation-code.html)
-* [Матрица NOC 2016](http://noc.esdc.gc.ca/English/NOC/Matrix2016.aspx?ver=16) (легко найти свой NOC и его skill level)
+* [Матрица NOC 2016](https://noc.esdc.gc.ca/Structure/Matrix/344d571331744b259cdb934154870369) (легко найти свой NOC и его skill level)
 * [Таблица перевода баллов IELTS и TEF в CLB](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
 * [Сколько денег нужно показать для иммиграции в Канаду (требования к PoF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html)
 * [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html)
