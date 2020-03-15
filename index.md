@@ -93,7 +93,7 @@ __АНГЛИЙСКИЙ / IELTS__
 * [Подготовка на 6-ки](https://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
-
+* [IELTS Cambridge practice](https://t.me/cambridgepractice) - телеграм-канал с материалами Cambridge для подготовки к IELTS.
 
 __ФРАНЦУЗСКИЙ / TEF__
 
