@@ -80,10 +80,6 @@
                     <span id="years" class="badge badge-primary badge-pill">0</span>
                   </li>
                   <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Months:
-                    <span id="months" class="badge badge-primary badge-pill">0</span>
-                  </li>
-                  <li class="list-group-item d-flex justify-content-between align-items-center">
                     Weeks:
                     <span id="weeks" class="badge badge-primary badge-pill">0</span>
                   </li>
@@ -92,8 +88,7 @@
                     <span id="days" class="badge badge-primary badge-pill">0</span>
                   </li>
                   <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Hours:
-                    <span id="hours" class="badge badge-primary badge-pill">0</span>
+                    &nbsp;
                   </li>
                   <li class="list-group-item d-flex justify-content-between align-items-center">
                     Total hours:
@@ -114,18 +109,21 @@
   <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js"></script>
   <script>
     const getFullTimeHours = (startDate, endDate, hoursPerWeek) => {
-      const effectiveHoursPerDay = hoursPerWeek < 30 ? hoursPerWeek / 5 : 6;
+      const effectiveHoursPerWeek = hoursPerWeek > 30 ? 30 : hoursPerWeek;
+      const effectiveHoursPerDay = effectiveHoursPerWeek / 5;
       const sd = moment(startDate);
       const ed = moment(endDate);
       const totalDays = ed.diff(sd, 'days') + 1;
       const dayOfWeek = sd.isoWeekday();
-      let totalWorkdays = 0;
+      let totalWorkDays = 0;
       for (let i = dayOfWeek; i < totalDays + dayOfWeek; i++) {
         if (i % 7 !== 6 && i % 7 !== 0) {
-          totalWorkdays += 1;
+          totalWorkDays += 1;
         }
       }
-      return totalWorkdays * effectiveHoursPerDay;
+      const totalWeeks = Math.floor(totalWorkDays / 5);
+      const lastDays = totalWorkDays % 5;
+      return (totalWeeks * effectiveHoursPerWeek) + (lastDays * effectiveHoursPerDay);
     };
 
     const fullTimeHoursToExperience = (hours) => {
@@ -157,10 +155,8 @@
         }
       });
       $('#years').text(result.experience.years);
-      $('#months').text(result.experience.months);
       $('#weeks').text(result.experience.weeks);
       $('#days').text(result.experience.days);
-      $('#hours').text(result.experience.hours);
       $('#totalHours').text(result.hours);
     }
 
