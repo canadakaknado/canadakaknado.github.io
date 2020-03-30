@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Work Hours Calculator">
+  <meta name="author" content="canadakaknado.info">
+  <title>canadakaknado.info | Work Hours Calculator</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="jumbotron text-center">
+      <h1>Work Hours Calculator</h1>
+    </div>
+    <div class="row">
+      <div class="col-md-8">
+        <form>
+          <table class="table">
+            <caption>&nbsp;</caption>
+            <thead>
+              <tr>
+                <th scope="col">First Day of Work</th>
+                <th scope="col">Last Day of Work</th>
+                <th scope="col">Hours Per Week</th>
+                <th scope="col">&nbsp;</th>
+              </tr>
+            </thead>
+            <tbody id="items">
+              <tr class="item">
+                <td>
+                  <div class="form-group">
+                    <input type="date" class="form-control firstDate" />
+                  </div>
+                </td>
+                <td>
+                  <div class="form-group">
+                    <input type="date" class="form-control lastDate" />
+                  </div>
+                </td>
+                <td>
+                  <div class="form-gorup">
+                    <input type="text" class="form-control hoursPerWeek" />
+                  </div>
+                </td>
+                <td>
+                  <div class="form-group">
+                    <button type="button" class="btn btn-link removeRow"><span class="fa fa fa-minus-square" style="color:red"></span></button>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="4">
+                  <div class="form-group">
+                    <button id="addRow" type="button" class="btn btn-primary">Add Row</button>
+                    <button id="resetForm" type="button" class="btn btn-danger">Reset</button>
+                  </div>
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </form>
+      </div>
+      <div class="col-md-4">
+        <table class="table">
+          <caption>&nbsp;</caption>
+          <thead>
+            <th scope="col">Result</th>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="100">
+                <ul class="list-group col-md-12">
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Years:
+                    <span id="years" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Months:
+                    <span id="months" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Weeks:
+                    <span id="weeks" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Days:
+                    <span id="days" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Hours:
+                    <span id="hours" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    Total hours:
+                    <span id="totalHours" class="badge badge-primary badge-pill">0</span>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js"></script>
+  <script>
+    const getFullTimeHours = (startDate, endDate, hoursPerWeek) => {
+      const effectiveHoursPerDay = hoursPerWeek < 30 ? hoursPerWeek / 5 : 6;
+      const sd = moment(startDate);
+      const ed = moment(endDate);
+      const totalDays = ed.diff(sd, 'days') + 1;
+      const dayOfWeek = sd.isoWeekday();
+      let totalWorkdays = 0;
+      for (let i = dayOfWeek; i < totalDays + dayOfWeek; i++) {
+        if (i % 7 !== 6 && i % 7 !== 0) {
+          totalWorkdays += 1;
+        }
+      }
+      return totalWorkdays * effectiveHoursPerDay;
+    };
+
+    const fullTimeHoursToExperience = (hours) => {
+      const years = Math.floor(hours / 1560);
+      const weeks = Math.floor((hours - (years * 1560)) / 30);
+      const days = Math.floor((hours - (years * 1560) - (weeks * 30)) / 6);
+      const lastHours = hours - (years * 1560) - (weeks * 30) - (days * 6);
+      return { years, weeks, days, hours: lastHours, totalHours: hours };
+    };
+
+    function clearTr(tr) {
+      tr.find('input').each(function() { $(this).val(''); });
+    }
+
+    function updateCalc() {
+      const result = {
+        hours: 0,
+        experience: { years: 0, weeks: 0, days: 0, hours: 0 },
+      };
+      const items = $('#items').find('tr').each(function() {
+        const firstDate = $(this).find('.firstDate').val();
+        const lastDate = $(this).find('.lastDate').val();
+        const hoursPerWeek = $(this).find('.hoursPerWeek').val();
+        if (firstDate && lastDate && hoursPerWeek) {
+          const hours = getFullTimeHours(firstDate, lastDate, hoursPerWeek);
+          result.hours += hours;
+          const experience = fullTimeHoursToExperience(result.hours);
+          result.experience = experience;
+        }
+      });
+      $('#years').text(result.experience.years);
+      $('#months').text(result.experience.months);
+      $('#weeks').text(result.experience.weeks);
+      $('#days').text(result.experience.days);
+      $('#hours').text(result.experience.hours);
+      $('#totalHours').text(result.hours);
+    }
+
+    function addRow() {
+      const items = $('#items');
+      const allItems = items.find('tr');
+      const newItem = $(allItems[0]).clone();
+      clearTr(newItem);
+      items.append(newItem);
+    }
+
+    function removeRow() {
+      const items = $('#items').find('tr.item');
+      const tr = $(this).closest('tr.item');
+      if (items.length > 1) {
+        $(tr).remove();
+      } else {
+        clearTr(tr);
+      }
+      updateCalc();
+    }
+
+    function resetForm() {
+      const items = $('#items').find('tr.item');
+      clearTr($(items[0]));
+      if (items.length > 1) {
+        for (let i = 1; i < items.length; i += 1) {
+          $(items[i]).remove();
+        }
+      }
+      updateCalc();
+    }
+
+    $(function() {
+      $('#items').on('click', 'button.removeRow', removeRow);
+      $('#addRow').on('click', addRow);
+      $('#resetForm').on('click', resetForm);
+      $('#items').on('input', updateCalc);
+    });
+  </script>
+</body>
+</html>
