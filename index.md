@@ -247,7 +247,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
 * [SPb.RU => Canada](https://t.me/spbtocanada) - Moncton, New Brunswik -> Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
-* [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia 
+* [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia
+* [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно сроят дом)
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
