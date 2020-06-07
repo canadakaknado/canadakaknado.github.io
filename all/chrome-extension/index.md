@@ -1,6 +1,6 @@
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1em; "><a href="https://canadakaknado.info">CANADAKAKNADO.INFO</a><br>база знаний телеграм-чата <a href="https://t.me/canadakaknado">@canadakaknado</a><br>об иммиграции в Канаду</p>
 
-# __CIC PR TableHelper__
+# __IRCC PR TableHelper__
 
 Расширение для браузера Chrome [CIC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn) (__работает с анкетой, которая заполняется после ITA__), созданное [@vzakhar](https://t.me/vzakhar), выполняет следующие функции: 
 
