@@ -23,7 +23,7 @@ __Oksana Sidko__ (647) 295-9454, oksanasidko@hotmail.com (рекомендаци
 __Anzhela Gamalevych__ (647) 988-9717, angelacentury21@gmail.com (рекомендация @nex_54)  
 __Лана Гричаник__ (416)-887-0375 (рекомендация @Snoopadogg, @alesyapage)  
 __Татьяна__ (416) 768-8771 (рекомендация @VilmarHillow)  
-__Yana Gidalevich__ (647) 884-7136, помогает снять и удаленно (рекомендация @Drechsler)   
+__Yana Gidalevich__ (647) 884-7136, помогает снять и удаленно (рекомендация @Drechsler, @Elizaveta Ss, @RuzannaSar)   
 
 ## __Лигал эдвайзеры__  
 __[Apriori Legal Services Professional Corporation](http://www.apriorilaw.ca/about-us-3)__ (рекомендация @AnniePrusova) 
