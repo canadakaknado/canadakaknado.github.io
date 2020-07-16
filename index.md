@@ -92,6 +92,7 @@ __АНГЛИЙСКИЙ / IELTS__
 * [Подготовка на 8-ки](https://goo.gl/KnoEyR) — особое внимание уделяется райтингу, даны ссылки на большое количество полезной литературы, результат автора L9 R8.5 W8 S8.5.
 * [Подготовка на 6-ки](https://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
+* [IELTS one essay a day](https://t.me/oneessayaday) - телеграм-чат для совместной тренировки эссе для IELTS.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
 * [IELTS Cambridge practice](https://t.me/cambridgepractice) - телеграм-канал с материалами Cambridge для подготовки к IELTS.
 
@@ -174,11 +175,12 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Финансы в Канаде](https://t.me/canada_finances) - налоги, инвестиции, зарплаты, пенсии, выплаты, кредиты и прочие финансовые вопросы в разрезе канадской действительности.
 * [Предпринимательская Беседка](https://t.me/joinchat/Cm27ORWsYiljupP7-DmXkg) - чат для предпринимателей в Канаде: начинающих и опытных, а также желающих ими стать. 
 * [Канадский авточат](https://t.me/canada_cars) - чат для общения канадских автолюбителей.
-* [Медики в Канаде](https://t.me/joinchat/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
+* [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
+* [IELTS one essay a day](https://t.me/oneessayaday) - телеграм-чат для совместной тренировки эссе для IELTS.
 
 * [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
