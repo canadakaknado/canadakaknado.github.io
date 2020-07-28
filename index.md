@@ -147,6 +147,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
 * [Заполнение деклараций при переезде в Канаду](https://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
+
+### __Переезд (истории иммиграции участников чатов)__
+
+* [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social) от Alyona Tarasova
+
 ### __После переезда__
 
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
