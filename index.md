@@ -150,7 +150,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ### __Переезд (истории иммиграции участников чатов)__
 
-* [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social) от Alyona Tarasova
+* [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), Alyona Tarasova
+* [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
 
 ### __После переезда__
 
