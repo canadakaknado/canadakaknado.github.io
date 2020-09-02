@@ -226,6 +226,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
 
 ## <a id="vlogs"></a>__Влоги участников чата__
+* [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
 * [Оля Рыба TV](https://www.youtube.com/channel/UCDdLp7Otzh9FksaPtMEv0bw) - Mississauga, Ontario
 * [Программист-эмигрант TV](https://www.youtube.com/channel/UChF99XymAoIRzzcJC6taJ0A) -  - Mississauga, Ontario
 
