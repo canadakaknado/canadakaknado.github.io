@@ -127,7 +127,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [Требования к документам, предоставляемым по Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html)
 * [Что такое misrepresentation (мошенничество с документами)](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/document-misrepresentation.html)
-* [Подтверждение опыта работы (оформление reference letter)](https://julik.space/category/immigration/proof-of-work-experience/)
+* [Примеры оформления reference letters)](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 * Справки о несудимости - [кому нужна](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html), [в каких случаях](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/about.html), [как получить](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html)
  * [Справки о несудимости для Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence/police-certificates.html)
  * [Post e-APR Process and Common Reasons for Rejection](https://telegra.ph/Post-e-APR-Process-and-Common-Reasons-for-Rejection-08-08)
