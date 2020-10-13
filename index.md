@@ -220,7 +220,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 ## <a id="blogs"></a>__Блоги участников чата__
 
 * __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/).
-* __[Julik's Knowledge Base](https://julik.space/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана.
+* __[Julik's Knowledge Base](https://julikspace.wordpress.com/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана.
 * __[MEDVEDNEO - Блог Канадского Иммигранта](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником от [@MedvedNeo](https://t.me/MedvedNeo/).
 * Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu.
 * __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
