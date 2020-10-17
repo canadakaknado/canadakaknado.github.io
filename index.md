@@ -150,7 +150,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 ### __Образцы документов__
 * Требования к фотографиям для процессинга и ППР (раздел в процессе подготовки)
 * [Образец нотариальной заверенной дарственной (Украина)](https://canadakaknado.info/assets/pdf/gift-contract.pdf)
-* [Примеры оформления reference letters)](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
+* [Примеры оформления reference letters](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 
 
 ### __Переезд (истории иммиграции участников чатов)__
