@@ -159,10 +159,11 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
 * [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
 
-### __После переезда__
+### __Адаптация в Канаде. Подверждение профессии__
 
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 * __Опыт получения лицензии профессионального юриста в Канаде__ от [@Oxana_M](https://t.me/Oxana_M): [часть 1](https://messy-tortilla.livejournal.com/247535.html), [часть 2](https://messy-tortilla.livejournal.com/247676.html), [часть 3](https://messy-tortilla.livejournal.com/247974.html) - *если вы решите обратиться к Оксане, пожалуйста, ограничьтесь только темой получения лицензии юриста в Канаде, никаких юридических консультаций ни на какие темы Оксана не дает*.
+* [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
