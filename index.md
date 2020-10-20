@@ -146,7 +146,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [CIC NEWS](https://www.cicnews.com/) - новости канадской иммиграции ([неофициальный ресурс](https://www.cicnews.com/about.html#gs.ETvxh0c))
 * [Заполнение деклараций при переезде в Канаду](https://telegra.ph/Kak-i-na-chto-zapolnyat-deklaraciyu-pri-lendinge-12-10)
 
-
 ### __Образцы документов__
 * Требования к фотографиям для процессинга и ППР (раздел в процессе подготовки)
 * [Образец нотариальной заверенной дарственной (Украина)](https://canadakaknado.info/assets/pdf/gift-contract.pdf)
@@ -163,7 +162,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 * __Опыт получения лицензии профессионального юриста в Канаде__ от [@Oxana_M](https://t.me/Oxana_M): [часть 1](https://messy-tortilla.livejournal.com/247535.html), [часть 2](https://messy-tortilla.livejournal.com/247676.html), [часть 3](https://messy-tortilla.livejournal.com/247974.html) - *если вы решите обратиться к Оксане, пожалуйста, ограничьтесь только темой получения лицензии юриста в Канаде, никаких юридических консультаций ни на какие темы Оксана не дает*.
-* [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
+* [Путь медсестры в Канаде (до и после переезда](https://t.me/annticipation/117) - кликните, чтобы перейти на первый пост этой истории в телеграм-канале [@Anna Y](https://t.me/santarosalina):
+* [Pre-arrival services](https://t.me/annticipation/117) - кликните, чтобы перейти на первый пост по теме pre-arrival services; остальные посты найдете в том же телеграм-канале по тегу #annticipation_prearrival).
+
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
