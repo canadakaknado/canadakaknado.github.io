@@ -152,19 +152,21 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Примеры оформления reference letters](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 
 
-### __Переезд (истории иммиграции участников чатов)__
+### __Истории иммиграции участников чатов)__
 
 * [Иммиграция через учебу в возрасте 35+](https://t.me/everynowandthen/1622), [@aquamila](https://t.me/aquamila)
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
 * [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
 
+### __Подготовка к переезду __
+
+* [Pre-arrival services](https://t.me/annticipation/117) - кликните для перехода на первый пост по теме pre-arrival services; остальные посты на эту тему найдете в том же [телеграм-канале](https://t.me/annticipation) по тегу #annticipation_prearrival.
+
 ### __Адаптация в Канаде. Подтверждение профессии__
 
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 * __Опыт получения лицензии профессионального юриста в Канаде__ от [@Oxana_M](https://t.me/Oxana_M): [часть 1](https://messy-tortilla.livejournal.com/247535.html), [часть 2](https://messy-tortilla.livejournal.com/247676.html), [часть 3](https://messy-tortilla.livejournal.com/247974.html) - *если вы решите обратиться к Оксане, пожалуйста, ограничьтесь только темой получения лицензии юриста в Канаде, никаких юридических консультаций ни на какие темы Оксана не дает*.
-* [Путь медсестры в Канаде (до и после переезда)](https://t.me/annticipation/117) - кликните для перехода на первый пост этой истории в телеграм-канале [@Anna Y](https://t.me/santarosalina)
-* [Pre-arrival services](https://t.me/annticipation/117) - кликните для перехода на первый пост по теме pre-arrival services; остальные посты на эту тему найдете в том же телеграм-канале по тегу #annticipation_prearrival
-
+* [Путь медсестры в Канаде (до и после переезда)](https://t.me/annticipation/107) - кликните для перехода на первый пост этой истории [@Anna Y](https://t.me/santarosalina); продолжение найдете в том же [телеграм-канале](https://t.me/annticipation) по тегу #annticipation_nurse.
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
