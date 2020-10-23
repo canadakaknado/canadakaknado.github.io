@@ -2,7 +2,7 @@
 
 # __IRCC PR TableHelper__
 
-Расширение для браузера Chrome [IRCC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn) (__работает с анкетой, которая заполняется после ITA__), созданное [Vlad Z](https://t.me/@vlad_z7), выполняет следующие функции: 
+Расширение для браузера Chrome [IRCC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn) (__работает с анкетой, которая заполняется после ITA__), созданное [Vlad Z](https://t.me/vlad_z7), выполняет следующие функции: 
 
 1. Добавляет во все таблицы в профиле Express Entry кнопки ⬆️⬇️ (up / down) для перемещения строк в таблицах вверх и вниз. Новые кнопки располагаются справа от кнопки "Delete Row".<br><br><img src="https://canadakaknado.info/assets/images/chrome-ext-2.png" width="450">
 
