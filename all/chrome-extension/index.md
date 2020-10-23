@@ -38,8 +38,8 @@ __*Ячейка Е*__ - цель визита; если цель состоит 
 
 3. Далее файл необходимо скачать, выбрав формат CSV.<br><br><img src="https://canadakaknado.info/assets/images/travel-history-download.jpg" width="500">
 
-4. Полученный файл можно использовать для заполнения тревел хистори в браузере Chrome с установленным расширением [CIC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn).
+4. Полученный файл можно использовать для заполнения тревел хистори в браузере Chrome с установленным расширением [IRCC PR TableHelper](https://chrome.google.com/webstore/detail/cic-pr-tablehelper/bibbcbmdkcmmgpodmahndpfakjfiefnn).
 
-__Со всеми замечаниями, пожеланиями, вопросами и благодарностями обращайтесь к [@vzakhar](https://t.me/vzakhar), создателю данного расширения.<br>__
+__Со всеми замечаниями, пожеланиями, вопросами и благодарностями обращайтесь к [Vlad Z](https://t.me/vlad_z7), создателю данного расширения.<br>__
 
 __Если вы готовы внести посильный вклад в дальнейшую разработку приложения, что-то дополнить или исправить, сделать это можно [тут](https://github.com/vlad-zakharov/TravelHistoryHelper).<br><br>__
