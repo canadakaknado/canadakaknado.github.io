@@ -152,7 +152,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Примеры оформления reference letters](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 
 
-### __Истории иммиграции участников чатов)__
+### __Истории иммиграции участников чатов__
 
 * [Иммиграция через учебу в возрасте 35+](https://t.me/everynowandthen/1622), [@aquamila](https://t.me/aquamila)
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
