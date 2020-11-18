@@ -168,6 +168,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Опыт получения лицензии профессионального инженера в Канаде](https://canadakaknado.info/all/prof/peng/)
 * __Опыт получения лицензии профессионального юриста в Канаде__ от [@Oxana_M](https://t.me/Oxana_M): [часть 1](https://messy-tortilla.livejournal.com/247535.html), [часть 2](https://messy-tortilla.livejournal.com/247676.html), [часть 3](https://messy-tortilla.livejournal.com/247974.html) - *если вы решите обратиться к Оксане, пожалуйста, ограничьтесь только темой получения лицензии юриста в Канаде, никаких юридических консультаций ни на какие темы Оксана не дает*.
 * [Путь медсестры в Канаде (до и после переезда)](https://t.me/annticipation/107) - кликните для перехода на первый пост опыта [@Anna Y](https://t.me/santarosalina); продолжение найдете в том же [телеграм-канале](https://t.me/annticipation) по тегу _#annticipation_nurse_.
+* [Оценка (эвалюация) медицинского образования через MCC](https://bit.ly/3nyBQf7)
+
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
