@@ -126,7 +126,7 @@
 
 У каждой провинциальной программы есть свои стримы для разных типов потенциальных иммигрантов (например, вчерашних студентов, квалифицированных работников, знатоков французского языка, обладателей востребованных профессий и т.п. и т.д.), поэтому стоит изучить их очень тщательно, чтобы выбрать ту, которая может вам подойти. В настоящее время не существует никакого официального сводного списка всех провинциальных программ, пути иммиграции в каждую провинцию приходится искать на сайтах [cамих провинций](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/eligibility.html) - по ссылке вы попадете на страницу сайта IRCC, где размещены ссылки на официальные иммиграционные сайты всех провинций Канады. 
 
-Кроме того, в сообществе чатов canadakaknado.info существуют отдельные чаты, где обсуждается иммиграция в конкретные провинции: [New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador](https://t.me/themaritimes), [Alberta, Saskatchewan и Manitoba](https://t.me/prairies), [New Brunswick](https://t.me/NBimmigration), [Atlantic Immigration Pilot Program](https://t.me/atlanticimmigrationpilotprogram).
+Кроме того, в сообществе чатов canadakaknado.info существуют отдельные чаты, где обсуждается иммиграция в конкретные провинции: [New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador](https://t.me/themaritimes), [Alberta, Saskatchewan и Manitoba](https://t.me/prairies), [New Brunswick](https://t.me/NBimmigration), [Atlantic Immigration Pilot Program и Rural and Northern Immigration Pilot](https://t.me/atlanticimmigrationpilotprogram).
 
 ## __Что в итоге?__
 
