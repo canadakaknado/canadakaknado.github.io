@@ -246,6 +246,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
+* [Двое в Канаде. Иммиграция в 2020](https://t.me/TwoinCanada) - Toronto, Ontario __NEW!!!__
 * [Мама, я в Торонто!](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [Food & Travel blog 🇨🇦](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [visual debris](https://t.me/visualdebris) - Toronto, Ontario
