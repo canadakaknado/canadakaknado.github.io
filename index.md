@@ -91,12 +91,11 @@ __АНГЛИЙСКИЙ / IELTS__
 * [Как я 7 раз сдавал IELTS (и не сошёл с ума)](https://goo.gl/eetCgu) — опыт многократной сдачи IELTS для получения решающих баллов для иммиграции в Канаду, окончательный результат автора L8.5 R8 W7 S7.
 * [IELTS: как это было](https://telegra.ph/IELTS-kak-ehto-bylo-12-02) - опыт сдачи IELTS для получения баллов для иммиграции в Канаду с первого раза, результат автора L8 R8.5 W7 S7.
 * [Подготовка с уровня Advanced](https://studentification.wordpress.com/2016/09/29/ielts-general/) — результат автора L8.5 R9 W8.5 S8.0.
-* [Подготовка на 8-ки](https://goo.gl/KnoEyR) — особое внимание уделяется райтингу, даны ссылки на большое количество полезной литературы, результат автора L9 R8.5 W8 S8.5.
-* [Подготовка на 6-ки](https://bit.ly/1Uv25AQ) — c базового уровня до 6-ок за полгода, почти самостоятельно, результат автора L8 R6.5 W6 S7.
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [IELTS one essay a day](https://t.me/oneessayaday) - телеграм-чат для совместной тренировки эссе для IELTS.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
 * [IELTS Cambridge practice](https://t.me/cambridgepractice) - телеграм-канал с материалами Cambridge для подготовки к IELTS.
+* [Раздел IELTS форума Gday](http://www.gday.ru/forum/forum/ab/ielts) - множество полезных обсуждений экзамена IELTS и подготовки к нему, накопленных за годы существования форума с 2004 года.
 
 __ФРАНЦУЗСКИЙ / TEF__
 
