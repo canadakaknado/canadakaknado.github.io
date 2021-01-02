@@ -150,6 +150,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Образец нотариальной заверенной дарственной (Украина)](https://canadakaknado.info/assets/pdf/gift-contract.pdf)
 * [Примеры оформления reference letters](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 
+### __Наши вебинары__
+* [Start Up Visa Webinar 2020)](https://youtu.be/N4Q3Dxbs5SQ)
 
 ### __Истории иммиграции участников чатов__
 
@@ -193,10 +195,13 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [PR-visa vs COVID-19](https://t.me/prvisavscovid19) - временный чат для обладателей CoPR-ов и иммиграционных виз, кто не может залендиться в связи с коронавирусом.
 * [Canada Solo](https://t.me/joinchat/LI5yWRavv4RpG1bZpyFgUA) - чат поддержки для тех, кто иммигрирует в Канаду в одиночку.
 
+* [Start-Up Visa Canada](https://t.me/startupvisaimmigration) - чат для тех, кто планирует иммиграцию через программу Start-Up Visa.
 * [Финансы в Канаде](https://t.me/canada_finances) - налоги, инвестиции, зарплаты, пенсии, выплаты, кредиты и прочие финансовые вопросы в разрезе канадской действительности.
 * [Предпринимательская Беседка](https://t.me/joinchat/Cm27ORWsYiljupP7-DmXkg) - чат для предпринимателей в Канаде: начинающих и опытных, а также желающих ими стать. 
 * [Канадский авточат](https://t.me/canada_cars) - чат для общения канадских автолюбителей.
 * [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
+
+
 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
