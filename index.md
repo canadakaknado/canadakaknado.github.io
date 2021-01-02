@@ -151,7 +151,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Примеры оформления reference letters](https://julikspace.wordpress.com/2016/09/10/employment-reference-examples/)
 
 ### __Наши вебинары__
-* [Start Up Visa Webinar 2020)](https://youtu.be/N4Q3Dxbs5SQ)
+* [Start Up Visa Webinar 2020](https://youtu.be/N4Q3Dxbs5SQ)
 
 ### __Истории иммиграции участников чатов__
 
