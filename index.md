@@ -160,7 +160,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Иммиграция через учебу в возрасте 35+](https://t.me/everynowandthen/1622), [@aquamila](https://t.me/aquamila)
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
 * [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
-* [Мы переехали в Канаду](https://memori.online/posts/2020/10/mi-pereekhali-v-kanadu/), [Stan](https://t.me/Stan_42) __NEW!__
+* __NEW!!!__ [Мы переехали в Канаду](https://memori.online/posts/2020/10/mi-pereekhali-v-kanadu/), [Stan](https://t.me/Stan_42)
 
 ### __Подготовка к переезду__
 
