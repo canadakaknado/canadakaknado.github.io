@@ -158,7 +158,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Иммиграция через учебу в возрасте 35+](https://t.me/everynowandthen/1622), [@aquamila](https://t.me/aquamila)
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
 * [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
-* [memori.online/](https://memori.online), [Stan](https://t.me/Stan_42), записи с октября 2020 года
+* [memori.online/](https://memori.online), [Stan](https://t.me/Stan_42), записи с октября 2020 года __NEW!__
 
 ### __Подготовка к переезду__
 
@@ -201,8 +201,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Предпринимательская Беседка](https://t.me/joinchat/Cm27ORWsYiljupP7-DmXkg) - чат для предпринимателей в Канаде: начинающих и опытных, а также желающих ими стать. 
 * [Канадский авточат](https://t.me/canada_cars) - чат для общения канадских автолюбителей.
 * [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
-
-
 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
@@ -251,7 +249,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
-* [Двое в Канаде. Иммиграция в 2020](https://t.me/TwoinCanada) - Toronto, Ontario __NEW!!!__
+* [Двое в Канаде. Иммиграция в 2020](https://t.me/TwoinCanada) - Toronto, Ontario
 * [Мама, я в Торонто!](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [Food & Travel blog 🇨🇦](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [visual debris](https://t.me/visualdebris) - Toronto, Ontario
