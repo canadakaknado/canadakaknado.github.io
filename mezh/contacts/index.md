@@ -30,6 +30,6 @@ __[Apriori Legal Services Professional Corporation](http://www.apriorilaw.ca/abo
 
 ## __Переводчики ATIO__   
 __Katerina Razumova__ (416) 616-5077, katya.razumova@gmail.com  
-__Igor Isaev__ (647) 705-1443, isayev.igor@gmail.com, [www.isaev.ca](https://www.isaev.ca), [@igor_isayev](https://t.me/igor_isayev)
+__Igor Isaev__ (647) 705-1443, isayev.igor@gmail.com, [www.isaev.ca](https://www.isaev.ca), [@igor_isayev](https://t.me/igor_isayev)\
 __Yuriy Kovalenko__ (416) 846-1587, ukov1@yahoo.com, украинский <-> english
 
