@@ -244,6 +244,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu.
 * __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
 * __NEW!!! [Блог](https://memori.online/tags/канада)__ авторства [Stan](https://t.me/Stan_42) - автор блога переехал в Канаду в период пандемии 2020-го года и рассказывает о своем переезде и адаптации под тегом "Канада".
+* __NEW!!! [Твиттер](https://twitter.com/julialxv)__ иммиграционного консультанта [Julia Alexeeva](https://t.me/julialxv) - о Канаде в целом и об иммиграции в Канаду в частности. 
+
 
 ## <a id="vlogs"></a>__Влоги участников чата__
 * [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
