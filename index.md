@@ -157,7 +157,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Иммиграция через учебу в возрасте 35+](https://t.me/everynowandthen/1622), [@aquamila](https://t.me/aquamila)
 * [Как я получила ВНЖ в Канаде по программе Express Entry](https://journal.tinkoff.ru/immigration-to-canada/?utm_source=telegram&utm_medium=social), [Alyona Tarasova](https://t.me/alurta)
 * [Жить и работать: сколько стоит переехать за границу: Санкт-Петербург - Торонто, Канада](https://journal.tinkoff.ru/zhivi-tam-horosho/?utm_source=notice&utm_medium=mail#canada), [Максим Корж](https://t.me/mkorzh)
-* __NEW!!!__ [Мы переехали в Канаду](https://memori.online/posts/2020/10/mi-pereekhali-v-kanadu/), [Stan](https://t.me/Stan_42)
+* [Мы переехали в Канаду](https://memori.online/posts/2020/10/mi-pereekhali-v-kanadu/), [Stan](https://t.me/Stan_42)
 
 ### __Подготовка к переезду__
 
@@ -200,8 +200,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Финансы в Канаде](https://t.me/canada_finances) - налоги, инвестиции, зарплаты, пенсии, выплаты, кредиты и прочие финансовые вопросы в разрезе канадской действительности.
 * [Предпринимательская Беседка](https://t.me/joinchat/Cm27ORWsYiljupP7-DmXkg) - чат для предпринимателей в Канаде: начинающих и опытных, а также желающих ими стать. 
 * [Канадский авточат](https://t.me/canada_cars) - чат для общения канадских автолюбителей.
-* __NEW!!!__ [Вождение в Канаде / Drive in Canada](https://t.me/drive_in_canada) - чат для обмена опытом сдачи теста по вождению и всего, что касается вождения в Канаде.
-* __NEW!!!__ [Overcome it](https://t.me/overcomeit) - чат для обмена опытом и советами по преодолению адаптационных сложностей в иммиграции.
+* [Вождение в Канаде / Drive in Canada](https://t.me/drive_in_canada) - чат для обмена опытом сдачи теста по вождению и всего, что касается вождения в Канаде.
+* [Overcome it](https://t.me/overcomeit) - чат для обмена опытом и советами по преодолению адаптационных сложностей в иммиграции.
 
 * [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
