@@ -244,7 +244,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
 * __[Блог](https://memori.online/tags/канада)__ авторства [Stan](https://t.me/Stan_42) - автор блога переехал в Канаду в период пандемии 2020-го года и рассказывает о своем переезде и адаптации под тегом "Канада".
 * __[Твиттер](https://twitter.com/julialxv)__ иммиграционного консультанта [Julia Alexeeva](https://t.me/julialxv) - о Канаде в целом и об иммиграции в Канаду в частности. 
-* __[Natasha’s Journey](https://natashakatson.github.io)__ - [Natasha Katson](https://t.me/thegirl) ведет англоязычный блог, рассказывая о своей _untypical (or not)_ иммиграции в Канаду. 
+* __[Natasha’s Journey](https://natashakatson.github.io)__ - [Natasha Katson](https://t.me/thegirl) ведет блог на двух языках, рассказывая о своей _untypical (or not)_ иммиграции в Канаду. 
 
 
 ## <a id="vlogs"></a>__Влоги участников чата__
