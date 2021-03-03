@@ -188,7 +188,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ТЕМАТИЧЕСКИЕ ЧАТЫ, БЛОГИ И ТЕЛЕГРАМ-КАНАДЫ УЧАСТНИКОВ ЧАТА</p>
 
-## <a id="chats"></a>__Тематические чаты__
+## <a id="chats"></a>__Тематические телеграм-чаты__
 
 * [Беседка](https://t.me/CanadaBower) - ответвление телеграм-чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду.
 
