@@ -249,8 +249,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="vlogs"></a>__Влоги участников чата__
 * [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
-* [Оля Рыба TV](https://www.youtube.com/channel/UCDdLp7Otzh9FksaPtMEv0bw) - Mississauga, Ontario
-* [Программист-эмигрант TV](https://www.youtube.com/channel/UChF99XymAoIRzzcJC6taJ0A) -  - Mississauga, Ontario
+* [From ХТЗ to Canada](https://www.youtube.com/channel/UCkc8SMJGVumnvQnE9C9a2Fg) - Moncton, New Brunswik
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
@@ -272,6 +271,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario (автор канала работает в канадской киноиндустрии)
 * [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario
 * [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
+* [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Камчатка (with a provincial nomination from Ontario)
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
