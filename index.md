@@ -255,7 +255,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario (автор канала работает в канадской киноиндустрии)
 * [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario
 * [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
-* [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Камчатка (with a provincial nomination from Ontario)
+* [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
