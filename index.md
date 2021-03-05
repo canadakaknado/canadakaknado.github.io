@@ -301,6 +301,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
 * [@alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
+* [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - - Montreal, Quebec
 
 * [@never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 
