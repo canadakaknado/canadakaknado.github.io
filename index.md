@@ -262,6 +262,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 * [Аналитики](https://t.me/serious_analytical_channel) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
+* [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
 
 * [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
