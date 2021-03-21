@@ -288,6 +288,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
 * [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 * [It's Time for Adventure](https://t.me/time_for_adventure) - Halifax, Nova Scotia
+* [Per Aspera Ad Aspera](https://t.me/per_aspera_ad_aspera) - Halifax, Nova Scotia
 
 * [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
 * [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswik)
