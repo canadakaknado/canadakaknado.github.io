@@ -273,7 +273,8 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 * [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia
 * [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно строят дом)
-
+* [Atnes' Life](https://t.me/AtnesLife) - Vancouver, British Columbia
+* 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
