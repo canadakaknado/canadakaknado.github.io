@@ -14,10 +14,10 @@ _Всем привет!  Меня зовут Александр, я переех
 Для того чтобы стать лицензированным инженером в провинции Онтарио, необходимо выполнить пять основных условий:
 
 1. быть не моложе 18 лет;
-2) иметь хорошую репутацию (или, как это звучит на английском, “be of a good character”);
-3) соответствовать [требованиям по образованию](https://www.peo.on.ca/licence-applications/become-professional-engineer/general-academic-requirements);
-4) сдать NPPE / PPE ([National Professional Practice Exam](https://www.peo.on.ca/licence-applications/become-professional-engineer/professional-practice-exam) / Professional Practice Exam);
-5) соответствовать [требованиям по опыту работы](https://www.peo.on.ca/licence-applications/become-professional-engineer/experience-assessment).
+2. иметь хорошую репутацию (или, как это звучит на английском, “be of a good character”);
+3. соответствовать [требованиям по образованию](https://www.peo.on.ca/licence-applications/become-professional-engineer/general-academic-requirements);
+4. сдать NPPE / PPE ([National Professional Practice Exam](https://www.peo.on.ca/licence-applications/become-professional-engineer/professional-practice-exam) / Professional Practice Exam);
+5. соответствовать [требованиям по опыту работы](https://www.peo.on.ca/licence-applications/become-professional-engineer/experience-assessment).
 
 Конкретно у меня больше всего сложностей возникло с третьим и пятым условием. 
 
