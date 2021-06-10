@@ -79,4 +79,4 @@ NPEE я сдал 14 сентября 2020 года, получив через т
 | NPPE preparation course (nppepractice.com) | 107.35 |
 | EIT license (annual fees, 2020) | 101.70 |
 | Registration + P.Eng. license annual fees (will be refunded by the employer) | 596.07 |
-| __TOTAL__ | __3821.09__ |
+| __TOTAL__ | __3821.09__ | 
