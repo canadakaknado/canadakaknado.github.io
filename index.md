@@ -69,7 +69,9 @@ __Данный сайт является базой знаний телегра�
 
 * [FAQ по PoF. PoF в вопросах и ответах](http://canadakaknado.info/all/pof/)
 
-* [Виды и типы иммиграционных программ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
+* [Виды и типы иммиграционных программ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/compare.html)
+
+* [Cравнение требований основных федеральных программ (программ Express Entry)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
 
 * [Требования к федеральной программе иммиграции FSW](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
 * [Таблица баллов Express Entry ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/criteria-comprehensive-ranking-system/grid.html)
