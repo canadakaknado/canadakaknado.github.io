@@ -325,10 +325,10 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="blogs"></a>__Тематические блоги участников чата__
 
-* __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/).
-* __[Julik's Knowledge Base](https://julikspace.wordpress.com/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана.
+* __[Destination: Canada](https://unpacked-cat.blogspot.ca/)__ - пошаговое описание реального процесса иммиграции в Канаду через программу Express Entry от [@UnpackedCat](https://t.me/UnpackedCat/) (часть информации уже устарела, проверяйте ее актуальность!)
+* __[Julik's Knowledge Base](https://julikspace.wordpress.com/)__ - еще один полезный блог об иммиграции в Канаду от [@JulikSp](https://t.me/JulikSp/), которая иммигрировала в Канаду через провинциальную программу Саскачевана (часть информации уже устарела, проверяйте ее актуальность!)
 * __[MEDVEDNEO - Блог Канадского Иммигранта](https://www.medvedneo.com/)__ - блог об успешном поиске работы в Канаде не айтишником от [@MedvedNeo](https://t.me/MedvedNeo/).
-* Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu.
+* Еще один __[интересный блог](https://pikabu.ru/profile/FairyTale6001)__ об процессе иммиграции и последующем переезде от [@FairyTale6001](https://t.me/FairyTale6001/) на Pikabu (часть информации уже устарела, проверяйте ее актуальность!)
 * __[Блог](https://pikabu.ru/@amsbr)__ на Pikabu авторства [@Akhat](https://t.me/akhatman) - нетривиальные приключения ньюкамеров в Торонто и прочие интересные лонгриды о канадской жизни.
 * __[Блог](https://memori.online/tags/канада)__ авторства [Stan](https://t.me/Stan_42) - автор блога переехал в Канаду в период пандемии 2020-го года и рассказывает о своем переезде и адаптации под тегом "Канада".
 * __[Твиттер](https://twitter.com/julialxv)__ иммиграционного консультанта [Julia Alexeeva](https://t.me/julialxv) - о Канаде в целом и об иммиграции в Канаду в частности. 
