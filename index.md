@@ -268,7 +268,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario
 * [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
 * [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
-* [Can Immigrate](https://t.me/canimmigrate) - Toronto/Vaughn, Ontario 
 
 * [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
