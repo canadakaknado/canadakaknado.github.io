@@ -288,6 +288,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
 * [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
 * [Atnes' Life](https://t.me/AtnesLife) - Vancouver, British Columbia
+* [Everything Now](https://t.me/everythingnow_2021) - Vancouver, British Columbia
 * [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 * [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia
 * [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно строят дом)
