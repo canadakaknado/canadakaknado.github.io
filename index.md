@@ -242,12 +242,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Архитекторы в Канаде](https://t.me/joinchat/Hghlx0mdAI-LmtTX) - чат для архитекторов, иммигрировавших или планирующих иммиграцию в Канаду.
 * [IT Resume review](https://t.me/resume_review) - критика и советы по улучшению резюме IT-специалистов по северо-американским стандартам.
 
-
 * [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
 * [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
 * [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
-* [@Warsaw VO Canada applicants](https://t.me/warsawvoforcanadaimmigration) - чат для аппликантов, что кейсы процессит Варшавский визовый офис.
-
 
 ### Городские чаты:
 * [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер.
