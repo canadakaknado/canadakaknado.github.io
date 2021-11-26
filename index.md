@@ -68,7 +68,7 @@ __Данный сайт является базой знаний телегра�
 
      Администратор чата __[@aquamila](https://t.me/aquamila)__ - __НЕ__ иммиграционный консультант, так что ей в личку тоже писать не стоит, только если она сама не попросит вас об этом.
 
-     Со __всеми вопросами к администрации чата__ (исключая те, что непосредтвенно относятся к теме чата) можно обращаться через бота __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. 
+     Со __всеми вопросами к администрации чата__ (исключая те, что непосредственно относятся к теме чата) можно обращаться через бота __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. 
 
 10. С просьбой о контактах проверенных иммиграционных консультантов пишите в __[@aquamila_bot](https://t.me/aquamila_bot)__. По любым другим вопросам, касающимся телеграм-чата [@canadakaknado](https://t.me/canadakaknado) или сайта [canadakaknado.info](https://canadakaknado.info/) пишите боту __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. Не задавайте вопросы об иммиграции в этих ботах, задавайте их в чате в [@canadakaknado](https://t.me/canadakaknado)!
 
@@ -310,7 +310,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
 * [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
-* [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswik -> Calgary, Alberta
+* [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswick -> Calgary, Alberta
 
 * [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
@@ -322,9 +322,9 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [It's Time for Adventure](https://t.me/time_for_adventure) - Halifax, Nova Scotia
 * [Per Aspera Ad Aspera](https://t.me/per_aspera_ad_aspera) - Halifax, Nova Scotia
 
-* [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswik
-* [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswik)
-* [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswik
+* [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswick
+* [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswick)
+* [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswick
 
 * [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
