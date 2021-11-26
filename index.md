@@ -138,7 +138,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Соответствие присваиваемых эвалюирующими организациями уровней образования и уровней образования по FSW/Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed/read-report.html)
 * [Процесс эвалюации российского диплома через WES](https://unpacked-cat.blogspot.ca/2015/10/educational-credential-assessment-eca-wes.html)
 
-### __Для тех, кто уже в пуле__
+### __Для тех, кто уже в пуле (результаты выборок)__
 
 * [Результаты последней выборки Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/rounds-invitations.html)
 * [Результаты выборок Express Entry на canadavisa](https://www.canadavisa.com/express-entry-invitations-to-apply-issued.html)
