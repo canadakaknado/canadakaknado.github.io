@@ -356,7 +356,7 @@ __ФРАНЦУЗСКИЙ / TEF__
 
 ## <a id="vlogs"></a>__Тематические влоги участников чата__
 * [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
-* [From ХТЗ to Canada](https://www.youtube.com/channel/UCkc8SMJGVumnvQnE9C9a2Fg) - Moncton, New Brunswik
+* [From ХТЗ to Canada](https://www.youtube.com/channel/UCkc8SMJGVumnvQnE9C9a2Fg) - Moncton, New Brunswick
 
 
 ## <a id="instagram"></a> __Тематические инстаграм-каналы участников__
