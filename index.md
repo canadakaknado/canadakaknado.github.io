@@ -362,4 +362,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 ## <a id="instagram"></a> __Тематические инстаграм-каналы участников__
 
 * [Жизнь в Канаде 🇨🇦](https://www.instagram.com/risha.skorpi) - Calgary, Alberta
+* [Канада 🇨🇦 глазами миллениала](https://www.instagram.com/katerinaevgenyevna/) - Calgary, Alberta
 * [BeauMzhe_в_Торонто](https://www.instagram.com/canadian_notes) - Toronto, Ontario
+
