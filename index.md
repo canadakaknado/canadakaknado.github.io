@@ -201,7 +201,7 @@ __ПОИСК РАБОТЫ, ПРОФЕССИОАЛЬНАЯ АДАПТАЦИЯ__
 
 __Перевоз животных__
 
-* [айд по перевозу кошек из России в Канаду](https://canadakaknado.info/all/cat-russia/)
+* [Гайд по перевозу кошек из России в Канаду](https://canadakaknado.info/all/cat-russia/)
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
