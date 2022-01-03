@@ -14,8 +14,6 @@ __Данный сайт является базой знаний телегра�
 3. __[Полезные инструменты](https://canadakaknado.info/#tools)__, облегчающие заполнение документов или получение информации.
 4. Ссылки на дружественные тематические __[чаты](https://canadakaknado.info/#chats)__, __[блоги](https://canadakaknado.info/#blogs)__, __[влоги](https://canadakaknado.info/#vlogs)__, __[телеграм-каналы](https://canadakaknado.info/#channels)__ и __[инстаграм-каналы](https://canadakaknado.info/#instagram)__ участников.
 
-Внимание! 
-
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg" width = "150"> </p>
