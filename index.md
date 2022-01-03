@@ -1,3 +1,10 @@
+<img src="https://canadakaknado.info/1x1.gif" height="8">
+
+<p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg" width = "150"> </p>
+
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/canadakaknado">@canadakaknado</a></p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.</p>
+
 __Данный сайт является базой знаний телеграм-чата [@canadakaknado](https://t.me/canadakaknado), посвященном иммиграции в Канаду.__
 
 Здесь вы найдете:
