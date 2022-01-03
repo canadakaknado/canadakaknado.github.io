@@ -1,3 +1,5 @@
+Если у вас есть желание поблагодарить за этот сайт и чат [@canadakaknado](https://t.me/canadakaknado), пожалуйста, сделайте перевод любой суммы денег [сюда](https://nasiliu.net/podderzhat/) или [сюда](https://kusochekschastya.ru/pozhertvovat). 
+
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg" width = "150"> </p>
@@ -11,6 +13,8 @@ __Данный сайт является базой знаний телегра�
 2. __[Полезные ссылки](https://canadakaknado.info/#links)__ для тех, кто планирует иммиграцию или уже находится в иммиграционном процессе.
 3. __[Полезные инструменты](https://canadakaknado.info/#tools)__, облегчающие заполнение документов или получение информации.
 4. Ссылки на дружественные тематические __[чаты](https://canadakaknado.info/#chats)__, __[блоги](https://canadakaknado.info/#blogs)__, __[влоги](https://canadakaknado.info/#vlogs)__, __[телеграм-каналы](https://canadakaknado.info/#channels)__ и __[инстаграм-каналы](https://canadakaknado.info/#instagram)__ участников.
+
+Внимание! 
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
