@@ -278,7 +278,7 @@ __Перевоз животных__
 
 * [Tax In Canada RU](https://t.me/taxincanadaru) - налоги в Канадe
 
-## <a id="channels"></a> __Жизнеописательные телеграм-каналы участников)__
+## <a id="channels"></a> __Жизнеописательные телеграм-каналы участников__
 
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
@@ -369,12 +369,12 @@ __Перевоз животных__
 * __[Natasha’s Journey](https://natashakatson.github.io)__ - [Natasha Katson](https://t.me/thegirl) ведет блог на двух языках, рассказывая о своей _untypical (or not)_ иммиграции в Канаду. 
 
 
-## <a id="vlogs"></a>__Тематические влоги участников чата__
+## <a id="vlogs"></a>__Влоги участников чата__
 * [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
 * [From ХТЗ to Canada](https://www.youtube.com/channel/UCkc8SMJGVumnvQnE9C9a2Fg) - Moncton, New Brunswick
 
 
-## <a id="instagram"></a> __Тематические инстаграм-каналы участников__
+## <a id="instagram"></a> __Инстаграм-каналы участников__
 
 * [Жизнь в Канаде 🇨🇦](https://www.instagram.com/risha.skorpi) - Calgary, Alberta
 * [Канада 🇨🇦 глазами миллениала](https://www.instagram.com/katerinaevgenyevna/) - Calgary, Alberta
