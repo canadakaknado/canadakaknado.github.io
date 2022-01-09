@@ -276,6 +276,10 @@ __Перевоз животных__
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
+* [Tax In Canada RU](https://t.me/taxincanadaru) - налоги в Канадe
+
+## <a id="channels"></a> __Жизнеописательные телеграм-каналы участников)__
+
 Всем, кому интересно читать впечатления о жизни в Канаде, рекомендую подписаться на телеграм-каналы участников чатов [@canadakaknado](https://t.me/canadakaknado) и [@CanadaBower](https://t.me/canadabower):
 
 * [Двое в Канаде. Иммиграция в 2020](https://t.me/TwoinCanada) - Toronto, Ontario
