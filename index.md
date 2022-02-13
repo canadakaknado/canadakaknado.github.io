@@ -257,6 +257,7 @@ __Перевоз животных__
 * [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
 * [@NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
 * [@AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
+* [Ontario Tech Draw](https://t.me/+EzDx8pV1OBA1ZGIy) - чат для тех, кто получил NOI по стриму tech draw провинциальной программы Онтарио (вход по приглашениям, администрация чата добавляет только тех, кто действительно получил NOI). 
 
 * [@Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
 * [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
