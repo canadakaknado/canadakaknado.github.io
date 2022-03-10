@@ -144,7 +144,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Требования к джоб офферу для получения дополнительных баллов по ЕЕ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html)
 * [Официальные требования IRCC к эвалюации образования](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed.html)
 * [Соответствие присваиваемых эвалюирующими организациями уровней образования и уровней образования по FSW/Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed/read-report.html)
-* [Процесс эвалюации российского диплома через WES](https://unpacked-cat.blogspot.ca/2015/10/educational-credential-assessment-eca-wes.html)
 
 ### __Для тех, кто уже в пуле (результаты выборок)__
 
