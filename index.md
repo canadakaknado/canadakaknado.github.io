@@ -232,6 +232,8 @@ __Перевоз животных__
 
 * [PR-visa vs COVID-19](https://t.me/prvisavscovid19) - для обсуждения вопросов въезда в Канаду в период ковидных ограничений и последующего карантина.
 
+* [UA to Canada](https://t.me/UAtoCanada) - помощь желающим уехать из Украины в Канаду через программу CUAET / допомога українцям, які хочуть поїхати до Канадиза програмою CUAET
+
 * [Start-Up Visa Canada](https://t.me/startupvisaimmigration) - чат для тех, кто планирует иммиграцию через программу Start-Up Visa
 * [@Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду
 * [@Семейное спонсорство в Канаду](https://t.me/sponsorshipCanada) - обсуждение вопросов переезда в Канаду по семейному спонсорству
@@ -268,14 +270,14 @@ __Перевоз животных__
 * [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
 * [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
 
-### Городские чаты:
-* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер.
-* [@ca1gary](https://t.me/ca1gary) - Калгари.
-* [@montreal_chat](https://t.me/montreal_chat) - Монреаль.
-* [@winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег.
-* [@TorontoRus](https://t.me/TorontoRus) - Торонто и GTA.
-* [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага.
-* [@Ottawa_2020](https://t.me/ottawa_2020) - Оттава.
+### Городские:
+* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер
+* [@ca1gary](https://t.me/ca1gary) - Калгари
+* [@montreal_chat](https://t.me/montreal_chat) - Монреаль
+* [@winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
+* [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
+* [@Ottawa_2020](https://t.me/ottawa_2020) - Оттава
+* [NHNB](https://t.me/+4LX9Zhdo1yQ3Y2Ji) - Монктон и Сейнт Джон
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
