@@ -235,8 +235,8 @@ __Перевоз животных__
 * [UA to Canada](https://t.me/UAtoCanada) - помощь желающим уехать из Украины в Канаду через программу CUAET / допомога українцям, які хочуть поїхати до Канади за програмою CUAET
 
 * [Start-Up Visa Canada](https://t.me/startupvisaimmigration) - чат для тех, кто планирует иммиграцию через программу Start-Up Visa
-* [@Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду
-* [@Семейное спонсорство в Канаду](https://t.me/sponsorshipCanada) - обсуждение вопросов переезда в Канаду по семейному спонсорству
+* [Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду
+* [Семейное спонсорство в Канаду](https://t.me/sponsorshipCanada) - обсуждение вопросов переезда в Канаду по семейному спонсорству
 * [CANADA WP to PR](https://t.me/canadawptopr) - обсуждение способов иммиграции через предложение о работе
 * [WorkOutland](https://t.me/workoutland) - обсуждение поиска работы в Канаде и получения ворк пермитов аутлендерами
 * [Warsaw VO Canada applicants](https://t.me/joinchat/jHhcOEQQlexhZmZi) - чат для тех, чьи кейсы обрабатываются в Вашравском офисе
@@ -250,33 +250,33 @@ __Перевоз животных__
 * [Overcome it](https://t.me/overcomeit) - чат для обмена опытом и советами по преодолению адаптационных сложностей в иммиграции.
 * [От PR к гражданству](https://t.me/citizenshipkaknado) - обсуждение вопросов получения гражданства и паспорта
 
-* [@AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
-* [@toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
+* [AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
+* [toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
 * [CELPIP](https://t.me/joinchat/CAW5v0_O-jH-pA7jkA3p0w) - телеграм-чат для тех, кто готовится к CELPIP (с вопросами обращаться к [Nikita Pushkarskiy](https://t.me/nvpushkarskiy)).
 * [IELTS one essay a day](https://t.me/oneessayaday) - телеграм-чат для совместной тренировки эссе для IELTS.
 
-* [@TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
-* [@Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
-* [@NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
-* [@AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
+* [TheMaritimes](https://t.me/themaritimes) - телеграм-чат посвящен иммиграции в Атлантические провинции Канады: New Brunswick, Nova Scotia, Prince Edward Island и Newfoundland and Labrador.
+* [Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
+* [NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
+* [AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
 * [Ontario Tech Draw](https://t.me/+EzDx8pV1OBA1ZGIy) - чат для тех, кто получил NOI по стриму tech draw провинциальной программы Онтарио (вход по приглашениям, администрация чата добавляет только тех, кто действительно получил NOI). 
 
-* [@Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
+* [Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
 * [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
 * [Архитекторы в Канаде](https://t.me/joinchat/Hghlx0mdAI-LmtTX) - чат для архитекторов, иммигрировавших или планирующих иммиграцию в Канаду.
 * [IT Resume review](https://t.me/resume_review) - критика и советы по улучшению резюме IT-специалистов по северо-американским стандартам.
 
-* [@KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
-* [@KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
-* [@IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
+* [KZCanada](https://t.me/kztocanada) - общение на темы канадской иммиграции для жителей Казахстана.
+* [KG_Canada](https://t.me/KG_Canada) - иммиграция в Канаду из Кыргызстана.
+* [IL to CA Израиль - Канада](http://t.me/ILtoCA) - иммиграция в Канаду из Израиля.
 
 ### Городские:
-* [@VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер
-* [@ca1gary](https://t.me/ca1gary) - Калгари
-* [@montreal_chat](https://t.me/montreal_chat) - Монреаль
-* [@winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
-* [@MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
-* [@Ottawa_2020](https://t.me/ottawa_2020) - Оттава
+* [VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер
+* [ca1gary](https://t.me/ca1gary) - Калгари
+* [montreal_chat](https://t.me/montreal_chat) - Монреаль
+* [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
+* [MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
+* [Ottawa_2020](https://t.me/ottawa_2020) - Оттава
 * [NHNB](https://t.me/+4LX9Zhdo1yQ3Y2Ji) - Монктон и Сейнт Джон
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
@@ -308,22 +308,22 @@ __Перевоз животных__
 * [Can Immigrate](https://t.me/canimmigrate) - Toronto/Vaughn, Ontario 
 * [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
 
-* [@BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
-* [@ParliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
-* [@Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
+* [BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
+* [arliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
+* [Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 * [Аналитики](https://t.me/serious_analytical_channel) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
 
-* [@Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
-* [@OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
-* [@ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
-* [@getbt](https://t.me/getbt) - Vancouver, British Columbia
-* [@Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
+* [Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
+* [OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
+* [ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
+* [getbt](https://t.me/getbt) - Vancouver, British Columbia
+* [Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
 * [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
 * [Atnes' Life](https://t.me/AtnesLife) - Vancouver, British Columbia
 * [Everything Now](https://t.me/everythingnow_2021) - Vancouver, British Columbia
 * [Thoughts & stuff](https://t.me/thoughts_stuff) - Vancouver, British Columbia
-* [@MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
+* [MissionBCpossible](https://t.me/missionbcpossible) - Mission, British Columbia 
 * [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia
 * [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно строят дом)
 
@@ -334,32 +334,32 @@ __Перевоз животных__
 * [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
 * [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswick -> Calgary, Alberta
 
-* [@blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
-* [@Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
-* [@ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
-* [@Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
-* [@Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
-* [@Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
+* [blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
+* [Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
+* [ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
+* [Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
+* [Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
+* [Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
 * [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 * [It's Time for Adventure](https://t.me/time_for_adventure) - Halifax, Nova Scotia
 * [Per Aspera Ad Aspera](https://t.me/per_aspera_ad_aspera) - Halifax, Nova Scotia
 
-* [@NewStep](https://t.me/new_step_canada) - Moncton, New Brunswick
+* [NewStep](https://t.me/new_step_canada) - Moncton, New Brunswick
 * [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswick)
 * [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswick
 
-* [@julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
-* [@escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
+* [julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
+* [escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
 * [Что-то на канадском](https://t.me/socanada) - Regina, Saskatchewan
 
-* [@real_montReal](https://t.me/real_montreal) - Montreal, Quebec
-* [@Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
-* [@MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
-* [@alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
+* [real_montReal](https://t.me/real_montreal) - Montreal, Quebec
+* [Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
+* [MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
+* [alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
 * [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - - Montreal, Quebec
 
-* [@never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
+* [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
