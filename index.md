@@ -277,7 +277,7 @@ __Перевоз животных__
 * [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
 * [MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
 * [Ottawa_2020](https://t.me/ottawa_2020) - Оттава
-* [NHNB](https://t.me/+4LX9Zhdo1yQ3Y2Ji) - Монктон и Сейнт Джон
+* [NHNB](https://t.me/+F9Ey7F0WQxViMTcy) - Монктон и Сейнт Джон
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
