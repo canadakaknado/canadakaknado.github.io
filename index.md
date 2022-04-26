@@ -337,7 +337,6 @@ __Перевоз животных__
 * [Canadian beavers](https://t.me/canadian_beavers) - Kelowna, British Columbia
 * [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно строят дом)
 
-
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
@@ -367,8 +366,8 @@ __Перевоз животных__
 * [MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
 * [alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
-* [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - - Montreal, Quebec
-* [From Canada with Love 🇰🇿🇨🇦](https://t.me/yevacanada) - - Montreal, Quebec
+* [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - Montreal, Quebec
+* [From Canada with Love 🇰🇿🇨🇦](https://t.me/yevacanada) - Montreal, Quebec
 * 
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
