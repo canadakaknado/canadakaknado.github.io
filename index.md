@@ -371,7 +371,7 @@ __Перевоз животных__
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
 * [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - Montreal, Quebec
 * [From Canada with Love 🇰🇿🇨🇦](https://t.me/yevacanada) - Montreal, Quebec
-* 
+
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
 
