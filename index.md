@@ -289,6 +289,8 @@ __Перевоз животных__
 * [Ottawa_2020](https://t.me/ottawa_2020) - Оттава
 * [NHNB](https://t.me/+F9Ey7F0WQxViMTcy) - Монктон и Сейнт Джон
 
+
+
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
 * [Tax In Canada RU](https://t.me/taxincanadaru) - налоги в Канадe
@@ -356,6 +358,7 @@ __Перевоз животных__
 * [NewStep](https://t.me/new_step_canada) - Moncton, New Brunswick
 * [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswick)
 * [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswick
+* [UASJ Українці в Saint John](https://t.me/uasj_info) - Saint John, New Brunswick (канал для швидкого зв'язку та інформування українців, які хочуть переїхати в місто Saint John, NB, Canada, общение на украинском, русском и английском)
 
 * [julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
