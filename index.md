@@ -286,7 +286,6 @@ __Перевоз животных__
 * [Активный Калгари](http://t.me/OutdoorsCalgary) - Об активном отдыхе и интересных событиях/мероприятиях в Калгари
 * [montreal_chat](https://t.me/montreal_chat) - Монреаль
 * [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
-* [MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
 * [Ottawa_2020](https://t.me/ottawa_2020) - Оттава
 * [NHNB](https://t.me/+F9Ey7F0WQxViMTcy) - Монктон и Сейнт Джон
 
