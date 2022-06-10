@@ -283,6 +283,7 @@ __Перевоз животных__
 ### Городские:
 * [VancouverAlcove](https://t.me/VancouverAlcove) - Ванкувер
 * [ca1gary](https://t.me/ca1gary) - Калгари
+* [Активный Калгари](http://t.me/OutdoorsCalgary) - Об активном отдыхе и интересных событиях/мероприятиях в Калгари
 * [montreal_chat](https://t.me/montreal_chat) - Монреаль
 * [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
 * [MississaugaRus](https://t.me/MississaugaRus) - Миссиссага
