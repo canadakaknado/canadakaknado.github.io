@@ -328,6 +328,7 @@ __Перевоз животных__
 * [Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 * [Аналитики](https://t.me/serious_analytical_channel) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
+* [Because We Canada](https://t.me/becausewecanada) - Ottawa, Ontario
 
 * [Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
 * [OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
@@ -377,8 +378,6 @@ __Перевоз животных__
 
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
-
-* [Because We Canada](https://t.me/becausewecanada) - Москва, Россия (пока еще)
 
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
 
