@@ -262,6 +262,7 @@ __Перевоз животных__
 * [Вождение в Канаде / Drive in Canada](https://t.me/drive_in_canada) - чат для обмена опытом сдачи теста по вождению и всего, что касается вождения в Канаде.
 * [Overcome it](https://t.me/overcomeit) - чат для обмена опытом и советами по преодолению адаптационных сложностей в иммиграции.
 * [От PR к гражданству](https://t.me/citizenshipkaknado) - обсуждение вопросов получения гражданства и паспорта
+* [Передать в /из Канада 🇨🇦 Chat](https://t.me/peredatizvcanada) - чат для поиска тех, кто едет из Канады или в Канаду и может перевезти небольшую передачу.
 
 * [AllForIELTS](https://t.me/allforielts) - телеграм-чат для тех, кто готовится к IELTS.
 * [toutpourletef](https://t.me/toutpourletef) - телеграм-чат для тех, кто готовится к TEF.
@@ -322,6 +323,7 @@ __Перевоз животных__
 * [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
 * [Can Immigrate](https://t.me/canimmigrate) - Toronto/Vaughn, Ontario 
 * [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
+* [Канадизация Николая](https://t.me/maple_nikolai) - Toronto, Ontario
 
 * [BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
 * [arliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
