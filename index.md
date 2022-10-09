@@ -84,7 +84,7 @@ __Данный сайт является базой знаний телегра�
 
      С просьбой о контактах проверенных иммиграционных консультантов пишите в __[@aquamila_bot](https://t.me/aquamila_bot)__. 
      
-     По любым другим вопросам, касающимся телеграм-чатов [@canadakaknado](https://t.me/canadakaknado) и [Беседки](https://t.me/CanadaBower) или сайта [canadakaknado.info](https://canadakaknado.info/) пишите боту __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. 
+     __По любым другим вопросам, касающимся телеграм-чатов [@canadakaknado](https://t.me/canadakaknado) и [Беседки](https://t.me/CanadaBower) или сайта [canadakaknado.info](https://canadakaknado.info/) пишите боту __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)___. 
      
      Не задавайте вопросы об иммиграции в этих ботах, задавайте их в чате в [@canadakaknado](https://t.me/canadakaknado)!
 
