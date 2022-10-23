@@ -384,6 +384,8 @@ __Перевоз животных__
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
 
+* [New Newfoundlander](https://t.me/svetlanaincanada) - St. John's, Newfoundland and Labrador
+
 * [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
 
 ## <a id="blogs"></a>__Тематические блоги участников чата__
