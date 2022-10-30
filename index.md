@@ -376,7 +376,7 @@ __Перевоз животных__
 * [real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 * [Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
 * [MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
-* [alex_from_canada](https://t.me/alex_from_canada) - Montreal, Quebec
+* [alex_from_canada]([https://t.me/alex_from_canada](https://t.me/+QilFB7nnB-Ev7o6g)) - Montreal, Quebec; много полезной информации для изучающих английский язык
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
 * [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - Montreal, Quebec
 * [From Canada with Love 🇰🇿🇨🇦](https://t.me/yevacanada) - Montreal, Quebec
