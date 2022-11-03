@@ -153,9 +153,10 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Матрица NOC 2016](https://noc.esdc.gc.ca/Structure/Matrix/8f1a75a2b01643538dcfe73a27d9576f) (легко найти свой NOC и его skill level)
 * [Таблица перевода баллов IELTS и TEF в CLB](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)
 * [Сколько денег нужно показать для иммиграции в Канаду (требования к PoF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/proof-funds.html)
-* [Что такое валидный джоб оффер (требования к джоб офферу для дополнительных баллов по ЕЕ и/или для того, чтобы не показывать POF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html)
+* [Что такое валидный джоб оффер (требования к джоб офферу для дополнительных баллов по ЕЕ и/или для того, чтобы не показывать POF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html) 
 * [Официальные требования IRCC к эвалюации образования](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed.html)
 * [Соответствие присваиваемых эвалюирующими организациями уровней образования и уровней образования по FSW/Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed/read-report.html)
+* [Дополняемая инструкция по эвалюации образования в WES на опыте участников чата](https://t.me/canadakaknado_info/94)
 
 ### __Для тех, кто уже в пуле (результаты выборок)__
 
