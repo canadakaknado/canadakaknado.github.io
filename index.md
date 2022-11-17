@@ -100,6 +100,7 @@ __Данный сайт является базой знаний телегра�
 * [FAQ 2. Иммиграция в Канаду в вопросах и ответах](https://canadakaknado.info/faq2/)
 
 * [FAQ по PoF. PoF в вопросах и ответах](http://canadakaknado.info/all/pof/)
+* [FAQ по WES (Дополняемая инструкция по эвалюации образования в WES на опыте участников чата)](https://t.me/canadakaknado_info/94)
 
 * [Виды и типы иммиграционных программ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
 
@@ -156,7 +157,6 @@ __ФРАНЦУЗСКИЙ / TEF__
 * [Что такое валидный джоб оффер (требования к джоб офферу для дополнительных баллов по ЕЕ и/или для того, чтобы не показывать POF)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/offer-employment.html) 
 * [Официальные требования IRCC к эвалюации образования](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed.html)
 * [Соответствие присваиваемых эвалюирующими организациями уровней образования и уровней образования по FSW/Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/eligibility/education-assessed/read-report.html)
-* [Дополняемая инструкция по эвалюации образования в WES на опыте участников чата](https://t.me/canadakaknado_info/94)
 
 ### __Для тех, кто уже в пуле (результаты выборок)__
 
