@@ -110,6 +110,8 @@ __Данный сайт является базой знаний телегра�
 * [Таблица баллов Express Entry ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/become-candidate/criteria-comprehensive-ranking-system/grid.html)
 * [Считалка баллов Express Entry](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
 
+* [Иммиграционные сайты провинций и территорий](https://t.me/canadakaknado_info/27)
+
 * [LMIA 2018-2021](http://canadakaknado.info/all/LMIA2018-2021) - интерактивный дашборд по LMIA, выданным в 2018-2021 годах, с указанием работодателей
 
 * [Criminal Rehabilitation / Криминальная реабилитация](https://telegra.ph/Criminal-Rehabilitation-Canada-11-22) - иммиграция в Канаду с судимостью: законные пути и действия.
