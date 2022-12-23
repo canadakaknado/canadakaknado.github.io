@@ -312,8 +312,7 @@ __Перевоз животных__
 * [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
 * [Ottawa_2020](https://t.me/ottawa_2020) - Оттава
 * [NHNB](https://t.me/+F9Ey7F0WQxViMTcy) - Монктон и Сейнт Джон
-
-
+* [Toronto Girls](https://t.me/+p3OBKUZmjsNhNzhi) - Торонто (только девушки!)
 
 ## <a id="channels"></a> __Тематические телеграм-каналы участников__
 
