@@ -405,9 +405,7 @@ __Перевоз животных__
 
 * [New Newfoundlander](https://t.me/svetlanaincanada) - St. John's, Newfoundland and Labrador
 
-* [Лана Хидас - путь в Канаду](https://t.me/lanahidas) - St. John's, Newfoundland and Labrador
-
-* [Еще больше телеграм-каналов про Канаду](https://telegra.ph/Kanada-11-17)
+* [Лана Хидас - путь в Канаду](https://t.me/lanahidas) - пока еще не в Канаде
 
 ## <a id="blogs"></a>__Тематические блоги участников чата__
 
