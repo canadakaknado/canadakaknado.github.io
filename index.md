@@ -398,7 +398,8 @@ __Перевоз животных__
 * [alex_from_canada]([https://t.me/alex_from_canada](https://t.me/+QilFB7nnB-Ev7o6g)) - Montreal, Quebec; много полезной информации для изучающих английский язык
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
 * [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - Montreal, Quebec
-* [From Canada with Love 🇰🇿🇨🇦](https://t.me/yevacanada) - Montreal, Quebec
+* [photo dump Canada](https://t.me/photo_dump_Canada) - Montreal, Quebec
+* 
 
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
