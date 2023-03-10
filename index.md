@@ -387,6 +387,7 @@ __Перевоз животных__
 * [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswick)
 * [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswick
 * [UASJ Українці в Saint John](https://t.me/uasj_info) - Saint John, New Brunswick (канал для швидкого зв'язку та інформування українців, які хочуть переїхати в місто Saint John, NB, Canada, общение на украинском, русском и английском)
+* [Saint John, NB](https://t.me/saintjohnnb) - Saint John, New Brunswick
 
 * [julik_from_canada](https://t.me/julik_from_canada) - Saskatoon, Saskatchewan
 * [escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
