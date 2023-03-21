@@ -17,10 +17,8 @@
     ▪️и прочие вопросы, непосредственно касающиеся темы процесса иммиграции в Канаду, для них есть чат [@canadakaknado](https://t.me/canadakaknado).<br>
     
     Финансовые вопросы лучше обсуждать в чате [Финансы в Канаде](https://t.me/canada_finances).<br>
-    
-    <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>Множество других полезных чатов и каналов, созданных администрацией и участниками чатов @canadakaknado и @CanadaBower, вы найдете <a href="https://canadakaknado.info/#chats">тут</a></p>
-    
-    <font style="color:red;">Кроме того, помните, что существует большое количество тематических чатов (беседки других городов, чаты про иммиграцию и т.п.) - найти их можно на сайте [canadakaknado.info](https://canadakaknado.info) в разделе [Тематические чаты](https://canadakaknado.info/#chats).</font><br>
+   
+    <span style="color:red;">Кроме того, помните, что существует большое количество тематических чатов (беседки других городов, чаты про иммиграцию и т.п.) - найти их можно на сайте [canadakaknado.info](https://canadakaknado.info) в разделе [Тематические чаты](https://canadakaknado.info/#chats).</font><br>
 
     __Нарушение этого правила ведет к минимум Read Only сроком от 3 дней до 1 недели.__
 
