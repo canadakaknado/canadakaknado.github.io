@@ -335,34 +335,23 @@ __Перевоз животных__
 * [Мама, я в Торонто!](https://t.me/mamayavtoronto) - Toronto, Ontario
 * [Food & Travel blog 🇨🇦](https://t.me/foodandtraveltoronto) - Toronto, Ontario
 * [visual debris](https://t.me/visualdebris) - Toronto, Ontario
-* [Торонто Мон Амур](https://t.me/to_mon_amour) - Toronto, Ontario
-* [Vika в Канаде](https://t.me/vika_canada) - Toronto, Ontario
 * [Canadian Challenge](https://t.me/canadianchallenge) - Toronto, Ontario
 * [Приключения Че в 🇨🇦](https://t.me/cheandche) - Toronto, Ontario
 * [Victoria's Canada](https://t.me/victoriascanada) - Toronto, Ontario
 * [Канада без церемоний](https://t.me/canadabez) - Toronto, Ontario
-* [Unpackedness](https://t.me/unpackedness) - London, Ontario -> Toronto, Ontario
 * [CanadaVlada](https://t.me/CanadaVlada) - Toronto, Ontario
-* [Yet Another Toronto Channel](https://t.me/y_a_t_c) - Toronto, Ontario
 * [it's a wrap!](https://t.me/itsawrap) - Toronto, Ontario (автор канала работает в канадской киноиндустрии)
-* [Из Германии в Торонто](https://t.me/slightlyunlikely) - Toronto, Ontario
 * [Dambull](https://t.me/lnkdmbv) - Toronto, Ontario
 * [Can Immigrate](https://t.me/canimmigrate) - Toronto/Vaughn, Ontario 
 * [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
 * [Канадизация Николая](https://t.me/maple_nikolai) - Toronto, Ontario
 
-* [BlameCanada](https://t.me/iblamecanada) - Ottawa, Ontario -> Oakville, Ontario
-* [arliamentHill](https://t.me/parliamenthill) - Ottawa, Ontario
 * [Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
-* [Аналитики](https://t.me/serious_analytical_channel) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
 * [Because We Canada](https://t.me/becausewecanada) - Ottawa, Ontario
 
-* [Health_Vancity](https://t.me/health_vancity) - Vancouver, British Columbia
-* [OneMoreCanadian](https://t.me/onemorecanadian) - Vancouver, British Columbia
 * [ocpocmaq_canada](https://t.me/ocpocmaq_canada) - Vancouver, British Columbia
 * [getbt](https://t.me/getbt) - Vancouver, British Columbia
-* [Moral Panic](https://t.me/moralpanic) - Vancouver, British Columbia
 * [The door into summer](https://t.me/doortovancouver) - Vancouver, British Columbia
 * [Atnes' Life](https://t.me/AtnesLife) - Vancouver, British Columbia
 * [Everything Now](https://t.me/everythingnow_2021) - Vancouver, British Columbia
@@ -372,23 +361,18 @@ __Перевоз животных__
 * [Что нам стоит ДОМ построить?](https://t.me/housebuildingcanada) - Vancouver Island, British Columbia (авторы канала самостоятельно строят дом)
 
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
-* [@maple_notes](https://t.me/maple_notes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
 * [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
 * [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswick -> Calgary, Alberta
 
-* [blessed by elks](https://t.me/skiesqweqwe) - Halifax, Nova Scotia
 * [Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 * [ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
-* [Life in Canada](https://t.me/Canadianlife) - Halifax, Nova Scotia
-* [Imagine Canada](https://t.me/ImagineCanada) - Halifax, Nova Scotia
 * [Wandering Binturong](https://t.me/WanderingBinturong) - Halifax, Nova Scotia
 * [Хроники кленового сиропа](https://t.me/maplesyrupcronicles) - Halifax, Nova Scotia
 * [It's Time for Adventure](https://t.me/time_for_adventure) - Halifax, Nova Scotia
 * [Per Aspera Ad Aspera](https://t.me/per_aspera_ad_aspera) - Halifax, Nova Scotia
 
 * [NewStep](https://t.me/new_step_canada) - Moncton, New Brunswick
-* [Mon français](https://t.me/myfrenchdairy) - Москва, Россия (with a provincial nomination from New Brunswick)
 * [Our Canada day by day](https://t.me/our_Canada_day_by_day) - Moncton, New Brunswick
 * [UASJ Українці в Saint John](https://t.me/uasj_info) - Saint John, New Brunswick (канал для швидкого зв'язку та інформування українців, які хочуть переїхати в місто Saint John, NB, Canada, общение на украинском, русском и английском)
 * [Saint John, NB](https://t.me/saintjohnnb) - Saint John, New Brunswick
@@ -397,14 +381,12 @@ __Перевоз животных__
 * [escapetosask](https://t.me/escapetosask) - Saskatoon, Saskatchewan
 * [Что-то на канадском](https://t.me/socanada) - Regina, Saskatchewan
 
-* [real_montReal](https://t.me/real_montreal) - Montreal, Quebec
 * [Perm => Montreal](https://t.me/to_montreal) - Montreal, Quebec
 * [MAlmaty - Halifax, NS - Montreal, QC](https://t.me/halifax_notes) - Montreal, Quebec
 * [alex_from_canada]([https://t.me/alex_from_canada](https://t.me/+QilFB7nnB-Ev7o6g)) - Montreal, Quebec; много полезной информации для изучающих английский язык
 * [Хроники выдуманной страны](https://t.me/nonfiction_chronicles) - Montreal, Quebec
-* [Кишинев - Монреаль.Квебек.ca 🇦🇩🇨🇦](https://t.me/MD_CA) - Montreal, Quebec
 * [photo dump Canada](https://t.me/photo_dump_Canada) - Montreal, Quebec
-* 
+
 
 * [never tried maple syrup 🍁🇨🇦](https://t.me/whycanada) - Winnipeg, Manitoba
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
@@ -433,6 +415,5 @@ __Перевоз животных__
 ## <a id="instagram"></a> __Инстаграм-каналы участников__
 
 * [Жизнь в Канаде 🇨🇦](https://www.instagram.com/risha.skorpi) - Calgary, Alberta
-* [Канада 🇨🇦 глазами миллениала](https://www.instagram.com/katerinaevgenyevna/) - Calgary, Alberta
-* [BeauMzhe_в_Торонто](https://www.instagram.com/canadian_notes) - Toronto, Ontario
+* 
 
