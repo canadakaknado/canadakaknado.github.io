@@ -364,7 +364,7 @@ __Перевоз животных__
 * [@BeenThereNotes](https://t.me/beentherenotes) - Calgary, Alberta
 * [Мы в Канаде](https://t.me/siberta) - Edmonton, Alberta 
 * [Ann-ticipation of Canada, AB](https://t.me/annticipation) - Москва, Россия (with a provincial nomination from Alberta) 
-* [@Canada comme il faut](https://t.me/zaintrigovala) - St. Quentin, New Brunswick -> Calgary, Alberta
+* [Канада комільфо](https://t.me/zaintrigovala) - St. Quentin, New Brunswick -> Calgary, Alberta
 
 * [Izzy life](https://t.me/izzy_life) - Halifax, Nova Scotia
 * [ТАМ in Canada](https://t.me/tamincanada) - Halifax, Nova Scotia
