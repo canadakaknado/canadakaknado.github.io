@@ -416,5 +416,5 @@ __Перевоз животных__
 ## <a id="instagram"></a> __Инстаграм-каналы участников__
 
 * [Жизнь в Канаде 🇨🇦](https://www.instagram.com/risha.skorpi) - Calgary, Alberta
-* 
+* [Молодой канадец](https://www.instagram.com/the_young_canuck) - Calgary, Alberta
 
