@@ -346,6 +346,7 @@ __Перевоз животных__
 * [Извините, мы к вам](https://t.me/terriblysorry) - Россия, Петропавловск-Камчатский (with a provincial nomination from Ontario)
 * [Канадизация Николая](https://t.me/maple_nikolai) - Toronto, Ontario
 * [ПатуСоны в Торонто🇨🇦](https://t.me/patusong) - Toronto, Ontario
+* [(Не) чилим в Канаде](https://t.me/dontrestincanada) - Toronto, Ontario
 
 * [Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
