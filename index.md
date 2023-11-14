@@ -269,7 +269,6 @@ __Перевоз животных__
 
 * [UA to Canada](https://t.me/UAtoCanada) - помощь желающим уехать из Украины в Канаду через программу CUAET / допомога українцям, які хочуть поїхати до Канади за програмою CUAET
 
-* [Start-Up Visa Canada](https://t.me/startupvisaimmigration) - чат для тех, кто планирует иммиграцию через программу Start-Up Visa
 * [Канада: от учебы до работы](https://t.me/canada_from_study_to_work) - обсуждение вопросов обучения в Канаде, поиска работы после обучения и последующей иммиграции в Канаду
 * [Семейное спонсорство в Канаду](https://t.me/sponsorshipCanada) - обсуждение вопросов переезда в Канаду по семейному спонсорству
 * [CANADA WP to PR](https://t.me/canadawptopr) - обсуждение способов иммиграции через предложение о работе
@@ -299,7 +298,7 @@ __Перевоз животных__
 * [Prairies](https://t.me/prairies) - телеграм-чат посвящен иммиграции в регион Канадских Прерий (the Prairies): Alberta, Saskatchewan, и Manitoba.
 * [NBimmigration](https://t.me/NBimmigration) - иммиграция в New Brunswick.
 * [AIPP](https://t.me/atlanticimmigrationpilotprogram) - обсуждение Atlantic Immigration Pilot Program.
-* [Tech Draw & French Speaking](https://t.me/+RdKCh5PXioJiNTdi) - чат для тех, кто получил NOI по стриму провинциальной программы Онтарио для франкофонов или tech draw (вход по приглашениям, администрация чата добавляет только тех, кто действительно получил NOI). 
+* [Ontario Tech Draw & French Speaking]([https://t.me/+RdKCh5PXioJiNTdi](https://t.me/+BpIdrYzrn8E0NjQy)) - чат для тех, кто получил NOI по стриму провинциальной программы Онтарио для франкофонов или tech draw (вход по приглашениям, администрация чата добавляет только тех, кто действительно получил NOI). 
 
 * [Trucking_EU](https://t.me/TruckingEU) - иммиграция в Канаду и Европу через работу дальнобойщиком.
 * [Медики в Канаде](https://t.me/canadameds) - чат для медиков, иммигрировавших или планирующих иммиграцию в Канаду.
