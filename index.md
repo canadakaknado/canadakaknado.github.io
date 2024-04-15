@@ -394,6 +394,8 @@ __Перевоз животных__
 
 * [New Newfoundlander](https://t.me/svetlanaincanada) - St. John's, Newfoundland and Labrador
 
+* [пташка юля🕊️на севере канады](https://t.me/c/1167574224/4658) - Yellowknife, Northwest Territories
+
 * [Лана Хидас - путь в Канаду](https://t.me/lanahidas) - пока еще не в Канаде
 
 ## <a id="blogs"></a>__Тематические блоги участников чата__
