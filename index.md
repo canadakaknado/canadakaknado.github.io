@@ -117,6 +117,7 @@ __Данный сайт является базой знаний телегра�
 * [FAQ 2. Иммиграция в Канаду в вопросах и ответах](https://canadakaknado.info/faq2/)
 
 * [FAQ по PoF. PoF в вопросах и ответах](http://canadakaknado.info/all/pof/)
+* [FAQ по POWE (Proof of Work Experience)](http://canadakaknado.info/all/powe/)
 * [FAQ по WES (Дополняемая инструкция по эвалюации образования в WES на опыте участников чата)](https://t.me/canadakaknado_info/94)
 
 * [Виды и типы иммиграционных программ](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
