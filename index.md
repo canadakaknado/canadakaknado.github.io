@@ -415,6 +415,7 @@ __Перевоз животных__
 ## <a id="vlogs"></a>__Влоги участников чата__
 * [500 Miles](https://www.youtube.com/c/500MilesCanada) -  Vancouver, British Columbia, от авторов [@ocpocmaq_canada](https://t.me/ocpocmaq_canada)
 * [From ХТЗ to Canada](https://www.youtube.com/channel/UCkc8SMJGVumnvQnE9C9a2Fg) - Moncton, New Brunswick
+* [Wander Thunder](https://www.youtube.com/@Wander_Thunder) - Toronto, Ontario
 
 
 ## <a id="instagram"></a> __Инстаграм-каналы участников__
