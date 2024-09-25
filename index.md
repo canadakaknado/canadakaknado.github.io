@@ -258,11 +258,13 @@ __Перевоз животных__
 
 <p style="text-align: center;"> <img src="https://canadakaknado.info/canada-flag-300.jpg" width = "150"> </p>
 
-<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ТЕМАТИЧЕСКИЕ ЧАТЫ, БЛОГИ И ТЕЛЕГРАМ-КАНАДЫ УЧАСТНИКОВ ЧАТА</p>
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="links"></a>ДРУЖЕСТВЕННЫЕ ТЕМАТИЧЕСКИЕ ЧАТЫ; БЛОГИ И ТЕЛЕГРАМ-КАНАЛЫ УЧАСТНИКОВ ЧАТА</p>
 
 ## <a id="chats"></a>__Тематические телеграм-чаты__
 
-* [Беседка](https://t.me/CanadaBower) - ответвление телеграм-чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду. Вступление в чат по запросу, запрос обрабатывается 1 неделю. Если вам нужно попасть в чат срочно - связывайтесь с адмиинстрацией чата через __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. Правила чата - [здесь](https://canadakaknado.info/cbr). 
+<p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">Внимание! Только [@canadakaknado](https://t.me/canadakaknado), [Беседка](https://t.me/CanadaBower) и чат [От PR к гражданству](https://t.me/citizenshipkaknado) администрируется __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. Остальные чаты лишь дружественные нам и имеют своих владельцев и администраторов. Обычно их можно найти в описании этих чатов. Пожалуйста, обращайтесь к ним напрямую по всем вопросам, связанным с их админстрирование.</p>
+
+* [Беседка](https://t.me/CanadaBower) - ответвление телеграм-чата [@canadakaknado](https://t.me/canadakaknado) для обсуждения тем, не относящихся напрямую к иммиграции в Канаду. Вступление в чат по запросу, запрос обрабатывается 1 неделю. Если вам нужно попасть в чат срочно - связывайтесь с адмиинстрацией чата через __[@CaptainCanada_bot](https://t.me/CaptainCanada_bot)__. Правила чата - [здесь](https://canadakaknado.info/cbr).
 
 * [PR-visa vs COVID-19](https://t.me/prvisavscovid19) - для обсуждения вопросов въезда в Канаду в период ковидных ограничений и последующего карантина.
 
