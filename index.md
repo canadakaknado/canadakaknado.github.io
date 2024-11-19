@@ -320,7 +320,7 @@ __Перевоз животных__
 * [Активный Калгари](http://t.me/OutdoorsCalgary) - Об активном отдыхе и интересных событиях/мероприятиях в Калгари
 * [montreal_chat](https://t.me/montreal_chat) - Монреаль
 * [winnipeg_ru](https://t.me/winnipeg_ru) - Виннипег
-* [Ottawa chat | Оттава чат](https://t.me/ottawa_chat) - Оттава
+* [Ottawa chat / Оттава чат](https://t.me/ottawa_chat) - Оттава
 * [NHNB](https://t.me/+F9Ey7F0WQxViMTcy) - Монктон и Сейнт Джон
 * [Toronto Girls](https://t.me/+p3OBKUZmjsNhNzhi) - Торонто (только девушки!)
 
