@@ -350,6 +350,7 @@ __Перевоз животных__
 * [Канадизация Николая](https://t.me/maple_nikolai) - Toronto, Ontario
 * [ПатуСоны в Торонто🇨🇦](https://t.me/patusong) - Toronto, Ontario
 * [(Не) чилим в Канаде](https://t.me/dontrestincanada) - Toronto, Ontario
+* [D-Ukh Перемен](https://t.me/dashaplansandlife) - Toronto, Ontario
 
 * [Young Ottawans](https://t.me/YoungOttawans) - Ottawa, Ontario
 * [Russian in Canada](https://t.me/RussianCanadian) - Winnipeg, Manitoba -> Ottawa, Ontario
