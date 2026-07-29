@@ -396,6 +396,8 @@ __Перевоз животных__
 * [Сanadian Story](http://t.me/canadianstory2) - Сеул, Южная Корея (with a provincial nomination from Manitoba, через украинскую общину КУК)
 
 * [New Newfoundlander](https://t.me/svetlanaincanada) - St. John's, Newfoundland and Labrador
+* [Лев Канадец](https://t.me/levcanadec) - Newfoundland and Labrador
+* [hohodaechkinы stories в Канаде](https://t.me/hohodaeva) - Newfoundland and Labrador
 
 * [пташка юля🕊️на севере канады](https://t.me/c/1167574224/4658) - Yellowknife, Northwest Territories
 
