@@ -326,7 +326,7 @@ __Перевоз животных__
 
 * [Tax In Canada RU](https://t.me/taxincanadaru) - налоги в Канадe
 * [PinaCanada - Иммиграция в Канаду](https://t.me/pinacanada) - канал иммиграционного консультанта Юлии Алексеевой
-* [Иммиграция в Канаду - Lawpoint.ru](https://t.me/Lawpoint_Canada) - канал канадской адвокатской компании Lawpoint
+* [Canada Life Info](https://canadalifeinfo.ca) - новости и жизнь в Канаде на английском и русском
 
 ## <a id="channels"></a> __Жизнеописательные телеграм-каналы участников__
 
