@@ -326,7 +326,6 @@ __Перевоз животных__
 
 * [Tax In Canada RU](https://t.me/taxincanadaru) - налоги в Канадe
 * [PinaCanada - Иммиграция в Канаду](https://t.me/pinacanada) - канал иммиграционного консультанта Юлии Алексеевой
-* [Canada Life Info](https://canadalifeinfo.ca) - новости и жизнь в Канаде на английском и русском
 
 ## <a id="channels"></a> __Жизнеописательные телеграм-каналы участников__
 
@@ -414,6 +413,7 @@ __Перевоз животных__
 * __[Твиттер](https://twitter.com/julialxv)__ иммиграционного консультанта [Julia Alexeeva](https://t.me/julialxv) - о Канаде в целом и об иммиграции в Канаду в частности. 
 * __[Natasha’s Journey](https://natashakatson.github.io)__ - [Natasha Katson](https://t.me/thegirl) ведет блог на двух языках, рассказывая о своей _untypical (or not)_ иммиграции в Канаду. 
 * __[Блог Анны Конар](https://journal.tinkoff.ru/user2484124/#article)__ - [Анна Конар](https://t.me/AnnaQat) иммигрировала в Канаду в апреле 2023 года и рассказывает о своей жизни Гамильтоне (Онтарио).
+* __[Canada Life Info](https://canadalifeinfo.ca)__ - новости и жизнь в Канаде на английском и русском.
 
 
 ## <a id="vlogs"></a>__Влоги участников чата__
