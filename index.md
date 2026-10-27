@@ -1,7 +1,7 @@
 __Если у вас есть желание поблагодарить за этот сайт и чат [@canadakaknado](https://t.me/canadakaknado), пожалуйста, сделайте перевод любой суммы денег в эти организации:__
 - __[ФОНД СТАРОСТЬ В РАДОСТЬ](https://starikam.org)__
 - __[ЦЕНТР "СЕСТРЫ"](https://sisters-help.ru)__
-- __[ФОНД "КУСОЧЕК СЧАСТЬЯ ДЛЯ БЕЗДОМНОЙ КОШКИ"](https://kusochekschastya.ru/pozhertvovat).__
+- __[ФОНД "КУСОЧЕК СЧАСТЬЯ ДЛЯ БЕЗДОМНОЙ КОШКИ"](https://kusochekschastya.ru/pozhertvovat)__
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
