@@ -24,9 +24,9 @@ __Данный сайт является базой знаний телегра�
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:2em; "><a name="rules"></a>ПРАВИЛА ТЕЛЕГРАМ-ЧАТА <a href="https://t.me/canadakaknado">@canadakaknado</a></p>
 <p style="color:red; font-family:arial; font-weight:800; text-align:center; font-size:1.5em; ">ПОЖАЛУЙСТА, ОЗНАКОМЬТЕСЬ И СОБЛЮДАЙТЕ.</p>
 
-1. Чтобы присоединиться к чату, оставьте заявку на вступление и напишите боту [@CaptainCanada_bot](http://t.me/CaptainCanada_bot)
+__*Чтобы присоединиться к чату, оставьте заявку на вступление и напишите боту [@CaptainCanada_bot](http://t.me/CaptainCanada_bot)*__
 
-   Прежде чем задавать в чате вопросы о том, как переехать в Канаду:
+1. Прежде чем задавать в чате вопросы о том, как переехать в Канаду:
 
      - ознакомьтесь с кратким обзором основных путей иммиграции в Канаду в __[FAQ 1](https://canadakaknado.info/faq1)__
      
