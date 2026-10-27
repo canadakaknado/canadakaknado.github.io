@@ -1,4 +1,4 @@
-Если у вас есть желание поблагодарить за этот сайт и чат [@canadakaknado](https://t.me/canadakaknado), пожалуйста, сделайте перевод любой суммы денег [сюда](https://nasiliu.net/podderzhat/) или [сюда](https://kusochekschastya.ru/pozhertvovat). 
+__Если у вас есть желание поблагодарить за этот сайт и чат [@canadakaknado](https://t.me/canadakaknado), пожалуйста, сделайте перевод любой суммы денег в [фонд СТАРОСТЬ В РАДОСТЬ](https://starikam.org), в [ЦЕНТР "СЕСТРЫ"](https://sisters-help.ru) или в [ФОНД "КУСОЧЕК СЧАСТЬЯ ДЛЯ БЕЗДОМНОЙ КОШКИ"](https://kusochekschastya.ru/pozhertvovat).__
 
 <img src="https://canadakaknado.info/1x1.gif" height="8">
 
